@@ -643,6 +643,7 @@ adv.yllix.com
 adventurefeeds.xml-eu.ak-is2.net
 adventurefeeds.xml-v6.ak-is2.net
 adventurefeeds.xml.ak-is2.net
+advert.bayarea.com
 advert.beaverads.com
 advertise.bingads.microsoft.com
 advertiser.advangelists.com
@@ -760,7 +761,6 @@ aiqua-user.c.appier.net
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 ajsc.yodimedia.com
-ak-ads-ns.prisasd.com
 ak.argrowlitheor.com
 ak.atclauncheran.com
 ak.bymetapodchan.com
@@ -863,6 +863,7 @@ analysis2.ligatus.com
 analytics-http.mintegral.net
 analytics-prod2.glance-internal.inmobi.com
 analytics-production.hapyak.com
+analytics-static.ugc.bazaarvoice.com
 analytics-tcp.mintegral.net
 analytics.ad.daum.net
 analytics.adjust.cn
@@ -1542,11 +1543,17 @@ bapi.adsafeprotected.com
 bappaads.xml.ak-is2.net
 base-cdn.admarvel.com
 bat.r.msn.com
+batmobi.net
+batomqsmoocc.com
+batteusp2hilenor.com
+baywednesday.com
 bb.o-s.io
+bbbpromos.org
 bbcdn-bbnaut.ibillboard.com
 bbcdn-static-adserver.ibillboard.com
 bbcdn-static-mbrdsp.ibillboard.com
 bbcdn-tag.ibillboard.com
+bbelements.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
 bbnautid2.ibillboard.com
@@ -1556,10 +1563,15 @@ bc.ad.daum.net
 bc.fivecdm.com
 bc.mobisage.cn
 bc2.fivecdm.com
+bcaojrbriciw.com
 bcdn.automatad.com
 bcdn.cpmstar.com
+bcfads.com
 bck.accesstrade.net
+bcloudhost.com
+bcmediagroup.com
 bcp.crwdcntrl.net
+bcprm.com
 bd.moatads.com
 bd.vungle.com
 bdapi-id.ads.heytapmobi.com
@@ -1571,6 +1583,7 @@ bdapi.ads.oppomobile.com
 bdv.bidvertiser.com
 be.durationmedia.net
 beachfront.adhaven.com
+beachinfinitegag.com
 beacon-nf.rubiconproject.com
 beacon.aimtell.com
 beacon.cdnma.com
@@ -1595,8 +1608,15 @@ beacons5.gvt2.com
 beacons5.gvt3.com
 beacons6.gvt2.com
 beacons6.gvt3.com
+beakerweedjazz.com
+bealafulup.com
+beampulse.com
 beap.gemini.yahoo.com
 beauty.native-ad.net
+beaverads.com
+bebi.com
+bebreloomr.com
+becketsbesogne.top
 beeswax.tapjoy.com
 belgikanst.iad-03.braze.com
 berryessa.stats.live-video.net
@@ -2053,6 +2073,7 @@ cdn.districtm.ca
 cdn.districtm.io
 cdn.doublemax.net
 cdn.doubleverify.com
+cdn.easyads28.mobi
 cdn.engine.4dsply.com
 cdn.engine.phn.doublepimp.com
 cdn.engine.spotscenered.info
@@ -3035,6 +3056,7 @@ diagnostics.id5-sync.com
 dialin.exponential.com
 diff.smartadserver.com
 diff3.smartadserver.com
+dig.bdurl.net
 digital.younetmedia.com
 dimaria.alphonso.tv
 dio.admicro.vn
@@ -3832,6 +3854,7 @@ hk-wf.taboola.com
 hk.adserver.yahoo.com
 hk.meet.ssl2.duapps.com
 hkbid.adview.com
+hlog.bclugu.com
 hlog.hiido.com
 hls.v.fwmrm.net
 hm.adform.net
@@ -4921,6 +4944,7 @@ msg.umengcloud.com
 msga.cupid.iqiyi.com
 msn.serving-sys.com
 mstr.sharethrough.com
+mt.binmanoboles.com
 mt.doublemax.net
 mt.rtmark.net
 mt2.rtmark.net
@@ -5770,6 +5794,7 @@ publishers.media.net
 publishers.propellerads.com
 publishers.revcontent.com
 publishersummit.exponential.com
+pubmatic.bbvms.com
 pubs2-asia.creativecdn.com
 pubs2-eu.creativecdn.com
 pubs2-us.creativecdn.com
@@ -7358,6 +7383,7 @@ t.doublemax.net
 t.dsp-prod.demandbase.com
 t.dtscdn.com
 t.dtscout.com
+t.easyads28.mobi
 t.eclick.vn
 t.effectivemeasure.net
 t.everestop.io
@@ -9022,6 +9048,7 @@ xmlking.xml.ak-is2.net
 xmlppc.fs.ak-is2.net
 xmlppc.xml.ak-is2.net
 xng.trbo.com
+xr.staxisclivias.com
 xx.c.appier.net
 y.analytics.app-adforce.jp
 y.cdn.adblade.com
@@ -9085,3 +9112,4 @@ zoover.adtrackers.net
 zoover.bannertrack.net
 zplayer.trk.zapps.vn
 zt.1rx.io
+zz.bdstatic.com
