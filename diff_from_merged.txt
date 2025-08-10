@@ -169,7 +169,6 @@ ad-monitor.kargo.com
 ad-specs.guoshipartners.com
 ad-spire.genieesspv.jp
 ad-tag.inner-active.mobi
-ad-track.adiiix.com
 ad.1rx.io
 ad.360in.com
 ad.360yield.com
@@ -775,6 +774,7 @@ ak.hetaruwg.com
 ak.litaudrootsa.net
 ak.offstaryutor.com
 ak.ongastlya.com
+ak.ptailadsol.net
 ak.sail-horizon.com
 ak.stikroltiltoowi.net
 ak2.sail-horizon.com
@@ -1039,6 +1039,7 @@ api.alphonso.tv
 api.amplitude.com
 api.anythinktech.com
 api.appcloudbox.net
+api.appier.xyz
 api.applifier.com
 api.applovefrom.com
 api.appnext.com
@@ -2140,7 +2141,6 @@ cdn.myad.vn
 cdn.nanda.vn
 cdn.navdmp.com
 cdn.netcatx.com
-cdn.nextadgem.com
 cdn.o-s.io
 cdn.o333o.com
 cdn.oem.inmobi.net
@@ -3245,6 +3245,7 @@ ecn.adflex.vn
 ecs1.engageya.com
 edayo.boost-next.co.jp
 edba.brealtime.com
+edg.appier.xyz
 edge-west.customer.io
 edge.ad1x.com
 edge.addthis.com
@@ -3881,6 +3882,7 @@ i.clean.gg
 i.clickagy.com
 i.connectad.io
 i.ctnsnet.com
+i.finallygotthexds.site
 i.histats.com
 i.indoleads.com
 i.jads.co
@@ -4278,7 +4280,9 @@ jadserve.postrelease.com
 jaeger.vungle.com
 jcdn.ad-stir.com
 jenkins.appboy.com
+jenkins.bam-x.com
 jenkins.younetmedia.com
+jenkins2.bam-x.com
 jg.wensixuetang.com
 jgl.microad.net
 jill.fc.yahoo.com
@@ -4527,6 +4531,7 @@ lkm-admin.trafficfactory.biz
 ll.zucks.net
 lm.a8.net
 lm.serving-sys.com
+lmajm.lbylqerzmzlzq.top
 ln.gamesrevenue.com
 load-use1.exelator.com
 load.exelator.com
@@ -5162,6 +5167,7 @@ opt.proadscdn.com
 opt.ximad.com
 opt.yieldlove.com
 optchk.ayads.co
+optimidea.gotrackier.com
 optimize.adpushup.com
 optimize.innity.com
 optimize.urekamedia.com
@@ -6080,7 +6086,9 @@ rj.a-mo.net
 rj.gssprt.jp
 rlog.popin.cc
 rmax.tenmax.io
+rmmjy.rrbzvmklrzwmk.top
 rmp.1rx.io
+rmvla.rrqwarwrewrlj.top
 rnd.novanet.vn
 rock.defybrick.com
 roimedia.advertserve.com
@@ -6575,6 +6583,7 @@ server.adform.net
 server.asianmedia.com
 server.cpmstar.com
 server.ethicalads.io
+serversidestats.instant.page
 servg.modoro360.com
 servg.playstream.media
 servg.selectmedia.asia
@@ -6943,6 +6952,7 @@ staging.adswizz.com
 staging.api.adtimaserver.vn
 staging.applifier.com
 staging.appnexus.com
+staging.bam-x.com
 staging.blog.adblade.com
 staging.campaign.ateam-ad.jp
 staging.corp.evidon.com
