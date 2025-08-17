@@ -2420,7 +2420,6 @@ click.novanet.vn
 click.pclk.name
 click.phanquang.vn
 click.revsharecash.com
-click.showcasethat.com
 click.startappservice.com
 click.tracksummer.com
 click.union.ucweb.com
@@ -2783,6 +2782,7 @@ cuoituoitrevn.matomo.cloud
 currency.prebid.org
 currency.pubpowerplatform.io
 currents.parsely.com
+cvt.finallygotthexds.site
 cvt.mydas.mobi
 cw.addthis.com
 cws.conviva.com
@@ -3973,7 +3973,6 @@ ignite.adtima.vn
 ih.adscale.de
 iki.daleriki.com
 ilead.itrack.it
-ilogs.bytefence.com
 im.jpush.cn
 im.platform.duapps.com
 im2.smartadserver.com
@@ -4009,7 +4008,6 @@ images.mxpnl.com
 images.outbrain.com
 images.outbrainimg.com
 images.parsely.com
-images.showcasethat.com
 images.specificclick.net
 images.startappservice.com
 images.taboola.com
@@ -4618,7 +4616,6 @@ logpostback.media.net
 logs.ads.vungle.com
 logs.bilsyndication.com
 logs.browser-intake-datadoghq.com
-logs.bytefence.com
 logs.convertexperiments.com
 logs.ironsrc.mobi
 logs.supersonic.com
@@ -5082,6 +5079,7 @@ ntrb.qc.coccoc.com
 ntvp.wpu.sh
 nv.vi-serve.com
 nvirginia-my.mobfox.com
+ny.damasseakamai.com
 ny.outbrain.com
 ny1-bid.adsrvr.org
 nychi2.outbrain.com
@@ -5680,6 +5678,7 @@ privacy-location-edge.ccgateway.net
 privacy.smrtb.com
 privacy.yieldlove-ad-serving.net
 probe.yieldlab.net
+proc.ad.cpe.dotomi.com
 prod-a.applovin.com
 prod-adload.skyadsmart.com
 prod-bid.applovin.com
@@ -5794,7 +5793,6 @@ push.cdnads.com
 push.oncustomer.asia
 push.popcash.net
 push.revrtb.com
-push.showcasethat.com
 push.soft-com.biz
 push.tenmax.io
 push.yoads.net
