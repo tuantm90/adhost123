@@ -1770,7 +1770,6 @@ c.idealmedia.io
 c.ivstracker.net
 c.medialytics.com
 c.mgid.com
-c.mstorer.net
 c.netund.com
 c.ns1p.net
 c.o-s.io
@@ -1835,7 +1834,6 @@ cadmus.script.ac
 cads.scalemonk.com
 cafepharma.adblade.com
 call.inforsea.com
-camp.purchase-shop.com
 campaign.ad-brix.com
 campaign.adpushup.com
 campaign.ateam-ad.jp
@@ -3091,6 +3089,7 @@ dmx-dev.districtm.ca
 dmx.districtm.ca
 dmx.districtm.io
 dn.adflex.vn
+dn.loupmismaze.com
 dnsbak.mediaz.vn
 doctorwho.outbrain.com
 donate-api.recorder.duapps.com
@@ -3186,6 +3185,7 @@ dx.steelhousemedia.com
 dyn-objects.mathtag.com
 dyn.omnitagjs.com
 dynamic-ads.appier.net
+dynamic-report-api.appsflyersdk.com
 dynamic.3lift.com
 dynamic.criteo.com
 dynamicads.statsperformdev.com
@@ -3865,6 +3865,7 @@ hub.simpli.fi
 hud.crazyegg.com
 hulu.pixel.invitemedia.com
 hunantv-ipdx.cn.miaozhen.com
+hv.pultosteduardo.com
 hw-cdn.trafficjunky.net
 hwdata1.aniview.com
 hwdata2.aniview.com
@@ -4672,7 +4673,6 @@ m.faktor.io
 m.infolinks.com
 m.lkqd.net
 m.loopme.me
-m.mstorer.net
 m.nxtck.com
 m.optvx.com
 m.quantcount.com
@@ -5117,6 +5117,7 @@ ocsext1.exponential.com
 ocsp.msocsp.comcdn.bttrack.com
 ocx.umeng.com
 odb.outbrain.com
+odm.app-ads-services.com
 odr.mookie1.com
 offer-api.adgem.com
 offer-api.nextadgem.com
@@ -7496,6 +7497,7 @@ teasers.adxxx.com
 techblog.gumgum.com
 telecommand.telemetry.microsoft.com
 telemetries.jeeng.com
+telemetry.insights.video.a2z.com
 telemetry.sdk.eastus-ssp.appgwv2.inmobi.com
 telemetry.sdk.inmobi.cn
 telemetry.sdk.inmobi.com
@@ -8290,6 +8292,7 @@ wpengine.taplytics.com
 wpn.codon.vn
 wpold.automatad.com
 wps.relateddigital.com
+wr.amigojimbang.com
 wr.indexexchange.com
 wrapper.blueseed.tv
 ws-fe.assoc-amazon.com
