@@ -1685,7 +1685,6 @@ bounce-west.emxdgt.com
 bounce.brealtime.com
 bounce.emxdgt.com
 boxpr.admicro.vn
-boxpr.aiservice.vn
 bp.specificclick.net
 br.x.cnt.my
 br2.x.cnt.my
@@ -1722,6 +1721,7 @@ bus.clevernt.com
 business.cleverads.vn
 buttons.googlesyndication.com
 buzzfeed.amp.permutive.com
+bv.frennecharras.com
 bwlkup.alphonso.tv
 by.pubexchange.com
 bypass-adn.ad-stir.com
@@ -4328,7 +4328,6 @@ js.adrta.com
 js.adscale.de
 js.adskeeper.co.uk
 js.adsrvr.org
-js.aiservice.vn
 js.alexametrics.com
 js.appboycdn.com
 js.bizographics.com
@@ -4517,7 +4516,6 @@ lifescript.alcmpn.com
 lijit.pixel.invitemedia.com
 link.leanplum.com
 link.swrve.com
-lio.aiservice.vn
 lite.automatad.com
 live-api.oncustomer.asia
 live-beacons.spotxchange.com
@@ -5073,7 +5071,6 @@ ns6.a8.net
 ns7.a8.net
 nsb.adxadserv.com
 nsbak.mediaz.vn
-nspapi.aiservice.vn
 nt.alcmpn.com
 ntrb.qc.coccoc.com
 ntvp.wpu.sh
@@ -5946,7 +5943,6 @@ realbid.brealtime.com
 realtime.connectad.io
 reaper.pulse.inmobi.com
 rec.admicro.vn
-rec.aiservice.vn
 rec.donglogs.com
 rec.scupio.com
 rec.smartlook.com
