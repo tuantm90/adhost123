@@ -1,3 +1,2 @@
-voz.vn
-c.office.com
+0.0.0.0 c.office.com
 
