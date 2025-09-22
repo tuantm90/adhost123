@@ -1,2 +1,2 @@
-0.0.0.0 c.office.com
+c.office.com
 
