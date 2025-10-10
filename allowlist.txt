@@ -1,2 +1,3 @@
 c.office.com
 tiktokcdn.com
+*.tiktokcdn.com
