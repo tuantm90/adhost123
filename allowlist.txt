@@ -1,3 +1,7 @@
 c.office.com
 tiktokcdn.com
 *.tiktokcdn.com
+googletagmanager.com
+*.googletagmanager.com
+zalopay.vn
+*.zalopay.vn
