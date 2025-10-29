@@ -1,6 +1,6 @@
 | Danh sách           | Link trực tiếp (raw)                                                                                                                                        |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ✅ ALLOWLIST         | [https://raw.githubusercontent.com/tuantm90/adhost123/main/allowlist.txt](https://raw.githubusercontent.com/tuantm90/adhost123/main/allowlist.txt)                |
+| ✅ ALLOWLIST         | [https://raw.githubusercontent.com/tuantm90/adhost123/main/allowlist.txt](https://raw.githubusercontent.com/tuantm90/adhost123/main/whitlist)                |
 | 🚫 BLOCK PLUS NEXT  | [https://raw.githubusercontent.com/tuantm90/adhost123/blockplusnext.txt](https://raw.githubusercontent.com/tuantm90/adhost123/main/blockplusnext.txt)        |
 | 🧱 BACKUP BLOCK     | [https://raw.githubusercontent.com/tuantm90/adhost123/backupblock.txt](https://raw.githubusercontent.com/tuantm90/adhost123/main/backupblock.txt)            |
 | 🛡️ CGPS HOST LIST  | [https://raw.githubusercontent.com/tuantm90/adhost123/main/my-blocklist.txt](https://raw.githubusercontent.com/tuantm90/adhost123/main/my-blocklist.txt)          |
