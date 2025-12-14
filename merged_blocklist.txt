@@ -2592,6 +2592,7 @@ analytics-ca.clickdimensions.com
 analytics-cds.mobiedu.vn
 analytics-eu.clickdimensions.com
 analytics-http.mintegral.net
+analytics-ipv6.tiktokw.us
 analytics-prod2.glance-internal.inmobi.com
 analytics-production.hapyak.com
 analytics-s4.com
@@ -2691,6 +2692,7 @@ analytics.ninjakiwi.com
 analytics.nova.fox.com
 analytics.novanet.vn
 analytics.ntlc.com.vn
+analytics.onflix.vip
 analytics.onfluencer.net
 analytics.pancake.vn
 analytics.pangle-ads.com
@@ -3743,6 +3745,7 @@ backend.avazutracking.net
 backend.pubnative.net
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
+backspinreentryupright.com
 backstage.taboola.com
 backup.aatkit.com
 badlandlispyippee.com
@@ -4252,6 +4255,7 @@ boustahe.com
 bouzechoby.net
 bowerywill.com
 box.anchorfree.net
+boxlikesedativespinach.com
 boxofwhisper.com
 boxpr.admicro.vn
 boxpr.aiservice.vn
@@ -6617,6 +6621,7 @@ developers.cityads.com
 developers.pubnative.net
 devex.adblade.com
 deviatestartblock.com
+deviatetracking.com
 device-detect.browsiprod.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
@@ -8390,6 +8395,7 @@ hadsecz.com
 hadsimz.com
 hadsokz.com
 hailstonefatherinlawsuggestions.com
+hairsromance.com
 hairtease.com
 hal9000.redintelligence.net
 hal90002.redintelligence.net
@@ -10251,6 +10257,7 @@ log.zingnews.vn
 log.znews.vn
 log1.adsplay.net
 log1.cmpassport.com
+log16-normal-us-ttp.capcutapi.us
 log2.adsplay.net
 log2.cmpassport.com
 log2.spotify.com
@@ -10663,7 +10670,9 @@ mcs-sg.tiktok.com
 mcs-va.capcutapi.com
 mcs-va.tiktokv.com
 mcs.snssdk.com
+mcs.tiktokw.us
 mcs.zijieapi.com
+mcs16-normal-us-ttp.capcutapi.us
 mct.rkdms.com
 mcuyfiwii.com
 mda.zadn.vn
@@ -11048,11 +11057,13 @@ momotrk.com
 mon-sg.capcutapi.com
 mon-va.capcutapi.com
 mon.adx.vn
+mon.capcutapi.us
 mon.isnssdk.com
 mon.snssdk.com
 mon.tiktokv.com
 mon.us.tiktokv.com
 mon.zijieapi.com
+mon16-normal-us-ttp.capcutapi.us
 monadplug.xs.ak-is2.net
 mondiad.net
 monetate.net
@@ -11145,6 +11156,8 @@ msgapp.com
 msgose.com
 msincsayqmji.com
 msn.serving-sys.com
+mssdk.capcutapi.us
+mssdk.tiktokw.us
 mstorer.net
 mstr.sharethrough.com
 msvobeuhec.com
@@ -11643,6 +11656,7 @@ offerfusion.com
 offergate-apps-publicity.com
 offergate-other32.com
 offerimage.com
+offeringchewjean.com
 offermatica.com
 offers.appnext.com
 offers.propellerads.com
@@ -12787,6 +12801,7 @@ precisioncounter.com
 predataclient.b-cdn.net
 predictad.com
 predictiondexchange.com
+preferencenail.com
 prefleks.com
 prelive.movad.net
 premierpartners.marketo.com
@@ -12925,6 +12940,7 @@ protected-by.clarium.io
 protexting.com
 proton-tm.com
 protraffic.com
+protrafficinspector.com
 prov.alphonso.tv
 provenpixel.com
 provexia.com
@@ -13755,6 +13771,7 @@ riverstressful.com
 rj.a-mo.net
 rj.gssprt.jp
 rjkrefyqrixk.com
+rjprpydgnco.com
 rjw4obbw.com
 rkdms.com
 rkgwzfwjgk.com
@@ -14026,6 +14043,7 @@ rwulzuaqsafn.com
 rxcdn.1rx.io
 rxeosevsso.com
 ryeqnyvbncdvg.com
+rzuohgfwyoxx.com
 s-a.innovid.com
 s-ad.rmp.rakuten.co.jp
 s-adserver.cxad.cxense.com
@@ -14620,6 +14638,7 @@ sezwho.com
 sf.nazs.socdm.com
 sf.vserv.mobi
 sf16-static.i18n-pglstatp.com
+sf16-telemetry-proxy-oci.tiktokcdn-us.com
 sf960.com
 sfiannzilgi.com
 sftp.criteo.com
@@ -16314,6 +16333,7 @@ tlvmedia.com
 tlx.3lift.com
 tm-banners.gamingadult.com
 tm-offers.gamingadult.com
+tm.ads.sportradar.com
 tm.r-ad.ne.jp
 tm5kpprikka.com
 tmebhjkjrtbb.com
@@ -16325,6 +16345,7 @@ tn.alphonso.tv
 tnc-boot.capcutapi.com
 tnc-sg.capcutapi.com
 tnc16-alisg.isnssdk.com
+tnc16-normal-us-ttp.capcutapi.us
 tnkexchange.com
 tnkuetnoabuk.com
 tns-counter.ru
@@ -16568,6 +16589,7 @@ tracker-api.my.com
 tracker-mw-zlivestream.zapps.vn
 tracker-pm2.spilleren.com
 tracker-zlivestream.zapps.vn
+tracker.ads.sportradar.com
 tracker.affirm.com
 tracker.ai.xiaomi.com
 tracker.anime47.com
@@ -17295,6 +17317,7 @@ v4.chartboost.com
 v4.moatads.com
 v5.chartboost.com
 v6rxv5coo5.com
+v7.deviatetracking.com
 v7event.stats.avast.com
 v9banners-com.cdn.ampproject.org
 v9banners.com
@@ -17820,6 +17843,7 @@ wedgierbirsit.com
 wedxuaksargvlf.com
 weeecool.com
 weesatoothoamu.net
+weirdopt.com
 welcome.consumable.com
 welcome.openx.com
 welcome.pubexchange.com
@@ -18301,6 +18325,7 @@ www.datadoghq-browser-agent.com
 www.datawrkz.com
 www.demandbase.com
 www.deployads.com
+www.deviatetracking.com
 www.dfbanners.com
 www.dfnb-ads.com
 www.displayvertising.com
@@ -18917,6 +18942,7 @@ yespetor.com
 yeti-api.automatad.com
 yeti.automatad.com
 yfetyg.com
+yfshutispht.com
 yhmfmugyq.com
 yield-manager.browsiprod.com
 yield-op-idsync.live.streamtheworld.com
