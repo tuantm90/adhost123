@@ -1,0 +1,4 @@
+rophim.*##+js(trusted-json-edit-xhr-response, .result.is_vip=true, propsToMatch,  /user/info)
+rophim.*##+js(trusted-json-edit-xhr-response, .result.is_verified=true, propsToMatch, /user/info)
+rophim.*##+js(trusted-json-edit-xhr-response, .result.coin_balance=999999999, propsToMatch, /user/info)
+rophim.*##+js(trusted-json-edit-xhr-response, .result.vip_expires_at=253394586000, propsToMatch, /user/info)
