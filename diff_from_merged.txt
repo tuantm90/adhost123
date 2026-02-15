@@ -377,6 +377,7 @@ adfraud.adoptimize.info
 adfs.qadynamics.marketo.com
 adg-data.kajicam.com
 adg.kajicam.com
+adgardener.com
 adgen.socdm.com
 adgrx.moatads.com
 adi.admicro.vn
@@ -401,7 +402,6 @@ adlog.flurry.com
 adm.admixer.com
 adm.hotjar.com
 admax.nexage.com
-admedia.getpublica.com
 admedia.ro
 admedia.wsod.com
 admediator.unityads.unity3d.com
@@ -582,7 +582,6 @@ ads.jp.ap.valuecommerce.com
 ads.juicyads.com
 ads.justpremium.com
 ads.kabbmedia.com
-ads.kitidi.com
 ads.leadboltads.net
 ads.livetv623.me
 ads.livetv625.me
@@ -1519,6 +1518,7 @@ api.webengage.com
 api.west.bidtellect.com
 api.wg-aff.com
 api.wiinvent.tv
+api.wootric.com
 api.yieldlab.net
 api.yieldlove-ad-serving.net
 api.zcoup.com
@@ -1598,7 +1598,6 @@ app.oncustomer.asia
 app.opmnstr.com
 app.optmnstr.com
 app.playstream.media
-app.posthog.com
 app.readpeak.com
 app.segment.com
 app.serverbid.com
@@ -2184,7 +2183,6 @@ c.bebi.com
 c.bumlam.com
 c.c.appier.net
 c.cdn-server.top
-c.cfjump.com
 c.cintnetworks.com
 c.clarity.ms
 c.clicktale.net
@@ -4275,7 +4273,6 @@ fwias.adsafeprotected.com
 fwmrm.net
 fwvc.adsafeprotected.com
 fxclix.com
-fxx5.com
 g-pixel.invitemedia.com
 g.3gl.net
 g.admedia.com
@@ -4604,7 +4601,6 @@ he.lijit.com
 header.mathtag.com
 healcheck.adpia.vn
 healthsmd.com
-heatmap.it
 heisenberg.inmobicdn.net
 helix.inmobi.cn
 hello.andbeyond.media
@@ -4664,7 +4660,6 @@ hub.onfluencer.net
 hub.onmarketer.net
 hub.simpli.fi
 hud.crazyegg.com
-hugazdazst.com
 hulu.pixel.invitemedia.com
 hummingbird.mavencoalition.io
 hunantv-ipdx.cn.miaozhen.com
@@ -4721,7 +4716,6 @@ ia-cert.inner-active.mobi
 ia-vast.inner-active.mobi
 ia.51.la
 iab-imp-gateway.supersonicads.com
-iabmap.evidon.com
 iabtechlab.com
 iact.atdmt.com
 iad-01.braze.com
@@ -4766,6 +4760,7 @@ id.hadron.ad.gt
 id.rlcdn.com
 id.tynt.com
 id.yieldlab.net
+idcounter.com
 idea.4cinsights.com
 identify.aiactiv.io
 identify.hotjar.com
@@ -4906,7 +4901,6 @@ imgs2.aanetwork.vn
 imgs2.yodimedia.com
 imgur.adsbynimbus.com
 imgx.jampp.com
-imhd.io
 immediatemedia.amp.permutive.com
 imobile.socdm.com
 imp-dsp.bidgear.com
@@ -6284,7 +6278,6 @@ optimize.urekamedia.com
 optimize.xapads.com
 optimized-by.rubiconproject.com
 optimizedby.brealtime.com
-optimizesrv.com
 optvx.com
 opus-dev.analytics.yahoo.com
 opus.analytics.yahoo.com
@@ -6518,10 +6511,10 @@ pba.automatad.com
 pba.aws.lijit.com
 pba.lijit.com
 pbc.automatad.com
-pbc.getpublica.com
 pbc.vliplatform.com
 pbid.pro-market.net
 pbjs.e-planning.net
+pbs-eu.getpublica.com
 pbs.adsninja.ca
 pbs.dev.yieldlove.com
 pbs.getpublica.com
@@ -6847,6 +6840,7 @@ privacy-policy.truste.com
 privacy.smrtb.com
 privacy.yieldlove-ad-serving.net
 pro-ads.club
+pro.marinsm.com
 probe.yieldlab.net
 proc.ad.cpe.dotomi.com
 prod-a.applovin.com
@@ -7050,7 +7044,6 @@ qcx.quantserve.com
 qds0l.publishers.tremorhub.com
 qip.yadro.ru
 qlog.adap.tv
-qn.unspedtaction.com
 qo.errorrespan.com
 qps.cint.com
 qs.ioam.de
@@ -7597,6 +7590,7 @@ s2.mellowads.com
 s2.mopub.com
 s2.nend.net
 s2s.adpushup.com
+s2s.appsflyer.com
 s2s.proper.io
 s2s.t13.io
 s2s.yieldlove-ad-serving.net
@@ -8274,7 +8268,6 @@ staging.getadmiral.com
 staging.getpublica.com
 staging.j.eclick.vn
 staging.kargo.com
-staging.logrocket.com
 staging.luckyorange.com
 staging.novaonx.com
 staging.prebid.org
