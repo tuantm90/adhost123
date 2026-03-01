@@ -895,6 +895,7 @@ admitad.com
 admix.in
 admixer.co.kr
 admixer.com
+admixer.md
 admixer.net
 admized.com
 admob-cn.com
@@ -2119,6 +2120,7 @@ afp.dotomi.com
 afrjhanwosa.com
 afs.googlesyndication.com
 afs.moatads.com
+afzotfwramzy.in
 ag.gbc.criteo.com
 ag.innovid.com
 agacelebir.com
@@ -2128,6 +2130,7 @@ agent.aralego.com
 agentanalytics.com
 aggravatingoil.com
 agkn.com
+agl006.host
 agle21xe2anfddirite.com
 agorahtag.tech
 agqoshfujku.com
@@ -2157,6 +2160,7 @@ aimtell.com
 ainouzaudre.net
 aio.lp.mydas.mobi
 aiqidwcfrm.com
+aiqowflpg.com
 aiqua-config.c.appier.net
 aiqua-sdk.c.appier.net
 aiqua-user.c.appier.net
@@ -2338,6 +2342,7 @@ alternativa.themoneytizer.com
 alternativas.themoneytizer.com
 alternativecpmgate.com
 alwingulla.com
+alwxamfivx.com
 alys.bilsyndication.com
 am-match.taboola.com
 am-pops.xml.adx1.com
@@ -2495,6 +2500,7 @@ analytics.donglogs.com
 analytics.eclick.vn
 analytics.edgekey.net
 analytics.ensighten.com
+analytics.eu.adjust.com
 analytics.evgcdn.net
 analytics.evn.com.vn
 analytics.explus.vn
@@ -3948,6 +3954,7 @@ boilhumoristpacifist.com
 boilingbeetle.com
 bojel.com
 boldchat.com
+bondeddarkenedswerve.com
 bondleapedoasis.com
 bonepa.com
 bonertraffic13.info
@@ -4247,6 +4254,7 @@ cactusheadroomscaling.com
 cad.youku.com
 cadmus.script.ac
 cads.scalemonk.com
+caemajnt.com
 cafepharma.adblade.com
 cagamvnuqhuh.com
 caiwheechous.com
@@ -5221,6 +5229,7 @@ cm3.adform.net
 cma.kargo.com
 cma.production.us-east-1.kops.kargo.com
 cmap.alibaba.com
+cmdpeufwwou.com
 cml.sad.ukrd.com
 cmp-dev.advertising.com
 cmp.advertising.com
@@ -5739,7 +5748,9 @@ customer.io
 customers.fptad.com
 cutescale.online
 cvt-s1.adangle.online
+cvt-s1.agl006.host
 cvt-s2.adangle.online
+cvt-s2.agl006.host
 cvt.finallygotthexds.site
 cvt.mydas.mobi
 cw.addthis.com
@@ -5910,6 +5921,7 @@ danarimedia.xml.ak-is2.net
 danbo.org
 dantocmiennui-log.baotintuc.vn
 dap.digitalgov.gov
+darnobedienceupscale.com
 dart-apac.l.doubleclick.net
 dart.l.doubleclick.net
 darvin-ec.ads.heytapmobi.com
@@ -6405,6 +6417,7 @@ dsb.yahoo.co.jp
 dsengine.doubleclick.net
 dsp-ams1.adkernel.com
 dsp-ap.eskimi.com
+dsp-api.moloco.com
 dsp-creative.demandbase.com
 dsp-d.ants.vn
 dsp-eu.adkernel.com
@@ -7066,6 +7079,7 @@ fev.fyber.com
 ff.imacdn.com
 fgp.philacct.com
 fhsmtrnsfnt.com
+fibqukktuv.in
 fidelity-media-ssp.rtb.adx1.com
 fidelity-media.com
 fieldevents.marketo.com
@@ -7374,6 +7388,7 @@ geofence.sys.miui.com
 geoip.nekudo.com
 geoip5m1y07.admix.in
 geoplugin.net
+geoqvcybdtn.com
 geotags.w55c.net
 geovisite.com
 geoworker.ayads.co
@@ -7522,6 +7537,7 @@ go.inmobi.net
 go.leanplum.com
 go.logrocket.com
 go.marketo.com
+go.mavrtracktor.com
 go.mediaz.vn
 go.mmstat.com
 go.mnaspm.com
@@ -7671,6 +7687,7 @@ guchihyfa.pro
 guidecent.com
 guidepaparazzisurface.com
 guihua-china.com
+gukahdbam.com
 gullyending.com
 gum.criteo.com
 gumdrops.gumgum.com
@@ -7860,6 +7877,7 @@ hits4pay.com
 hitslink.com
 hittail.com
 hitwebcounter.com
+hixwwert.in
 hk-match.taboola.com
 hk-pvmax.tenmax.io
 hk-sync.taboola.com
@@ -7948,6 +7966,7 @@ hw-cdn.trafficjunky.net
 hw.zuimeitianqi.com
 hwdata1.aniview.com
 hwdata2.aniview.com
+hwoqshyx.com
 hwpnocpctu.com
 hwstats.unity3d.com
 hxgqqxopf.com
@@ -8946,6 +8965,7 @@ laceassumestatic.com
 lactolwant.com
 ladsp.com
 ladsp.jp
+lakenebulareentry.com
 lakns.com
 lalaping.com
 lammasbananas.com
@@ -10161,6 +10181,7 @@ mt.doublemax.net
 mt.rtmark.net
 mt2.rtmark.net
 mt34iofvjay.com
+mtakpfquym.com
 mtgglobals.com
 mtl.nend.net
 mto.cgv.vn
@@ -10268,6 +10289,7 @@ namimedia.com
 nan46ysangt28eec.com
 nanda.vn
 nappyattack.com
+nappyonsetstiffness.com
 nasadfgzaq.com
 nastydollars.com
 nation.marketo.com
@@ -10420,6 +10442,8 @@ noolt.com
 nossairt.net
 notes-analytics-events.apple.com
 nothotdog.firstimpression.io
+noti-asia.adsmoloco.com
+noti-us.adsmoloco.com
 notification.popads.net
 notification.trackpush.com
 notification.webengage.com
@@ -10544,6 +10568,7 @@ obdshyohcog.com
 obin.distinctrobin.com
 objectionsunited.com
 obliquecensortend.com
+oblolrvce.in
 obnoljac.com
 obqj2.com
 obs.cheqzone.com
@@ -10565,6 +10590,7 @@ ocx.umeng.com
 odb.outbrain.com
 oddsserve.com
 odm.app-ads-services.com
+odnvkuocmow.in
 odqdkealzr.com
 odr.mookie1.com
 oewa.at
@@ -10606,6 +10632,7 @@ ojwoqdpiwdt.com
 ok.appnexus.com
 okspeechlessamong.com
 old.indoleads.com
+oljqobudyusf.com
 om.cbsi.com
 omappapi.com
 omax.admarvel.com
@@ -10712,6 +10739,7 @@ optad360.com
 optad360.io
 optad360.net
 optchk.ayads.co
+optimal730.com
 optimallimit.com
 optimidea.gotrackier.com
 optimize-stats.voxmedia.com
@@ -13015,6 +13043,7 @@ sdk.s.360.cn
 sdk.sharethrough.com
 sdk.starbolt.io
 sdk.truepush.com
+sdkapi.dsp-api.moloco.com
 sdkconfig.ad.india.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.rus.xiaomi.com
@@ -13346,6 +13375,7 @@ sin3-ib.adnxs.com
 sincerebuffalo.com
 sindirect.adsrvr.org
 single.runative.com
+singletplatformgleamenterprises.com
 singular.net
 sinisterbatchoddly.com
 sink.l.inmobicdn.net
@@ -13535,6 +13565,7 @@ sotchoum.com
 soumehoo.net
 source.bidgear.com
 sourcetobin.com
+sourshaped.com
 southabsorbed.com
 sozwkk.com
 sp-api.a8.net
@@ -13611,6 +13642,7 @@ sprysummit.com
 spurioussteam.com
 spuriousstranger.com
 spx-s1.adangle.online
+spx-s1.agl006.host
 spx.smaato.com
 spy.staticstuff.net
 spylog.com
@@ -14161,6 +14193,7 @@ steelhousemedia.com
 steepto.com
 steerensout.net
 steeringsunshine.com
+stelinnhy.in
 stereotypedsugar.com
 steve.districtm.ca
 stg-ads.servebom.com
@@ -14331,6 +14364,7 @@ switch.taplytics.com
 switchadhub.com
 switchads.com
 switchboard.mixpanel.com
+swmswjvdpc.com
 swordgoose.com
 sworkitads.herokuapp.com
 swpsvc.com
@@ -14339,6 +14373,7 @@ swuojrovqf.com
 sylxisys.com
 sympathydistinguish.com
 synacor-match.dotomi.com
+synapse22.net
 sync-dsp.ad-m.asia
 sync-eu.connectad.io
 sync-jp.im-apps.net
@@ -14940,6 +14975,7 @@ track.ad.xiaomi.com
 track.adflex.vn
 track.adform.net
 track.adition.com
+track.admitdftb.com
 track.adshay.vn
 track.adsota.com
 track.adspruce.com
@@ -15460,6 +15496,7 @@ umexalim.com
 ums.adtechus.com
 unanimis.co.uk
 unarmedindustry.com
+unarmedlickpattern.com
 unblockia.com
 unclesnewspaper.com
 undefined.fls.doubleclick.net
@@ -16254,6 +16291,7 @@ wirecomic.com
 wirtgage-proxing.icu
 wisepops.com
 witch-counter.de
+witvfaojpzi.in
 wiwqhootrf.com
 wiz.outbrain.com
 wizaly.com
@@ -17126,9 +17164,11 @@ xmlppc.xml.ak-is2.net
 xmlppcbuzz.com
 xmlrtb.com
 xng.trbo.com
+xnocffar.com
 xoom-ads.com
 xp.retinichawks.cyou
 xpe9.com
+xpihripcao.in
 xplosion.de
 xponsor.com
 xq1.net
