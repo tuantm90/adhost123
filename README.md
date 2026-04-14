@@ -5,4 +5,4 @@
 | 🧱 BACKUP BLOCK     | [https://raw.githubusercontent.com/tuantm90/adhost123/backupblock.txt](https://raw.githubusercontent.com/tuantm90/adhost123/main/backupblock.txt)            |
 | 🛡️ CGPS HOST LIST  | [https://raw.githubusercontent.com/tuantm90/adhost123/main/my-blocklist.txt](https://raw.githubusercontent.com/tuantm90/adhost123/main/my-blocklist.txt)          |
 | 🌐 MERGED BLOCKLIST | [https://raw.githubusercontent.com/tuantm90/adhost123/main/merged\_blocklist.txt](https://raw.githubusercontent.com/tuantm90/adhost123/main/merged_blocklist.txt) |
-| 🌐 MERGED BLOCKLIST | [[https://raw.githubusercontent.com/tuantm90/adhost123/main/merged\_blocklist.txt](https://raw.githubusercontent.com/tuantm90/adhost123/main/ytblock.txt)]|
+| 🌐 YOUTUBE BLOCKLIST | [[https://raw.githubusercontent.com/tuantm90/adhost123/main/merged\_blocklist.txt](https://raw.githubusercontent.com/tuantm90/adhost123/main/ytblock.txt)]|
