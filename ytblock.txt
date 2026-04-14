@@ -1,3 +1,8 @@
+! Title: Bỏ qua YouTube Shorts
+! Description: Hide all traces of YouTube shorts videos on YouTube
+! Version: 2025.4.15
+! Homepage: https://github.com/tuantm90/adhost123
+
 ! Loại bỏ khoảng trống trong grid
 www.youtube.com##ytd-rich-grid-row,#contents.ytd-rich-grid-row:style(display: contents !important)
 
