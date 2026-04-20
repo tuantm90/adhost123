@@ -16,6 +16,7 @@
 1x1.myfastcdn.com
 2.afs.googleadservices.com
 240.zaloapp.ads.zdn.vn
+2443march2024.com
 2468.go2cloud.org
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
@@ -563,10 +564,12 @@ ads.creative-serving.com
 ads.digitalmedianet.com
 ads.doublemax.net
 ads.doublepimp.com
+ads.elitetrader.com
 ads.epom.com
 ads.eskimi.com
 ads.eu.criteo.com
 ads.everesttech.net
+ads.evidon.com
 ads.exdynsrv.com
 ads.exoclick.com
 ads.exosrv.com
@@ -711,6 +714,7 @@ ads.yap.yahoo.com
 ads.yieldlove-ad-serving.net
 ads.yldmgrimg.net
 ads.youtube.com
+ads.zascdn.me
 ads04.tapsense.com
 ads1.careerbuilder.vn
 ads1.mediacapital.pt
@@ -2027,6 +2031,7 @@ bdv.bidvertiser.com
 be.durationmedia.net
 beabsolom.com
 beachfront.adhaven.com
+beachinfinitegag.com
 beacon-nf.rubiconproject.com
 beacon.aimtell.com
 beacon.cdnma.com
@@ -2056,6 +2061,7 @@ beampulse.com
 beap.gemini.yahoo.com
 beauty.native-ad.net
 beaverads.com
+bee7.com
 beeswax.tapjoy.com
 belgikanst.iad-03.braze.com
 belia-glp.com
@@ -2908,6 +2914,7 @@ checker.cityads.com
 chi.outbrain.com
 chi.sic.33across.com
 chi2only.outbrain.com
+childhoodstudioconversation.com
 chin-adnetwork.genieesspv.jp
 china-cdn.unityads.unity3d.com
 chipmanksmochus.com
@@ -3002,6 +3009,7 @@ click.wct.link
 click.yllix.com
 click1.yllix.com
 click2.yllix.com
+clickblitzo.xyz
 clickcease.com
 clickppc.infolinks.com
 clicks.eventbrite.com
@@ -4432,6 +4440,7 @@ games.cityads.com
 games.wiinvent.tv
 gan.doubleclick.net
 gandalf.younetmedia.com
+gaseousgeneral.com
 gaspra.iad-03.braze.com
 gatekeeper.outbrain.com
 gbalancer.connectad.io
@@ -4674,6 +4683,7 @@ h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 ha-api.pushwoosh.com
 ha.pro-market.net
 ha.pushwoosh.com
+hadsimz.com
 hairtease.com
 hal9000.redintelligence.net
 hal90002.redintelligence.net
@@ -4799,6 +4809,7 @@ hw-cdn.trafficjunky.net
 hw.zuimeitianqi.com
 hwdata1.aniview.com
 hwdata2.aniview.com
+hwoqshyx.com
 hwstats.unity3d.com
 hybird.rayjump.com
 hydra.alibaba.com
@@ -4918,6 +4929,7 @@ ih.adscale.de
 ik.hatcheskoeri.shop
 iki.daleriki.com
 ilead.itrack.it
+ileeckut.com
 im.bluevoox.com
 im.jpush.cn
 im.platform.duapps.com
@@ -5601,6 +5613,7 @@ loadpm.exelator.com
 loadr.exelator.com
 loadus.exelator.com
 loadus.tm.ssl.exelator.com
+loazuptaice.net
 local-media.ambient-platform.com
 local-media.m.ambient-platform.com
 local.adsbynimbus.com
@@ -5729,7 +5742,6 @@ logs.viadata.store
 logs.vlitag.com
 logsdk.qq.com
 logserver.insight.ucweb.com
-logv3.metric.vn
 logzh.vietnamplus.vn
 loind.mobio.vn
 lois.nend.net
@@ -5977,6 +5989,8 @@ mediation.adpushup.com
 mediation.fyber.com
 mediavisor.doubleclick.net
 mediavoice.com
+mediax.angloinfo.com
+mediaz.angloinfo.com
 mediaz.genieesspv.jp
 medusa-api.cbsileads.com
 medusaecaptan.com
@@ -6243,7 +6257,6 @@ nc.pubpowerplatform.io
 nd.prosilyingles.cyou
 ndtnc.abimimojo2.com
 nebula.im-apps.net
-negyuk.com
 nelo2-col.linecorp.com
 neo.go.sonobi.com
 nep-west.advangelists.com
@@ -6681,6 +6694,7 @@ pasta.sd.duapps.com
 pasta.sl.duapps.com
 pasta.tk.duapps.com
 pasta.whosthat.duapps.com
+pay-ads.com
 pay.getadmiral.com
 paychat.fuse-cloud.com
 paypalssl.doubleclick.net
@@ -6699,7 +6713,6 @@ pbc.getpublica.com
 pbc.vliplatform.com
 pbid.pro-market.net
 pbjs.e-planning.net
-pbs-eu.getpublica.com
 pbs.adsninja.ca
 pbs.dev.yieldlove.com
 pbs.getpublica.com
@@ -7120,6 +7133,7 @@ pub.trads.io
 pub.yllix.com
 pubadmin.adpone.com
 pubads.g.doubleclick.net
+pubads.g.doubleclick.uk.net
 pubads.wiinvent.tv
 public-trace-http-intake.logs.datadoghq.com
 public.servenobid.com
@@ -7155,7 +7169,6 @@ pubs2-us.creativecdn.com
 pubsdk-bin.criteo.com
 pui.specificmedia.com
 pulsar.xlisting.jp
-pulse.inmobi.com
 pulsefintech.xs.ak-is2.net
 puma.api.iqiyi.com
 punchbowl.alcmpn.com
@@ -7231,6 +7244,7 @@ qa-smartplugin.youbora.com
 qa.shboshbok.com
 qa2-origin.acuityplatform.com
 qa2.bfmio.com
+qc.japo.vn
 qc.klick.vn
 qc.mhsolution.vn
 qctt24h.24h.com.vn
@@ -8142,6 +8156,7 @@ shndrktrk.com
 shop-cdn.coccoc.com
 shopeevn-affiliate.blogspot.com
 shopping.ad.kakaocorp.com
+shopzilla.com
 show.gdns.revopush.com
 show.revopush.com
 showads-sg.pubmatic.com
@@ -8294,6 +8309,7 @@ spinbox.techtracker.com
 spixel.adsafeprotected.com
 spl.zeotap.com
 splitroute.adserver.yahoo.com
+sponsor.imacdn.com
 spot.fitness.com
 spotfront.mathtag.com
 spr.ad-stir.com
@@ -9467,6 +9483,7 @@ udm.scorecardresearch.com
 ueikno.com
 uh.nakanohito.jp
 uhealth.care
+uhland24.de
 ui-api.youbora.com
 ui-eu.maxymiser.com
 ui-kit.showheroes.com
@@ -9856,7 +9873,6 @@ vpaidevents.1rx.io
 vpb0.moatads.com
 vpixel.adgrx.com
 vpn-europe.conversantmedia.com
-vpn-explained.com
 vpn-us-west.conversantmedia.com
 vpx.mathtag.com
 vr.ad-stir.com
