@@ -12,6 +12,12 @@ ep1.facebook.com
 p2.facebook.com
 connect.facebook.com
 connect.facebook.net
+
+dns.ladipage.com
+dns.webcake.io
+dns.storecake.io
+
+
 ! ROPHIM
 ||robong.net^
 ||finallygotthexds.site^
