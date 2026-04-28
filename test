@@ -1,0 +1,195 @@
+$ErrorActionPreference = 'SilentlyContinue'
+
+Write-Host ""
+Write-Host "ADVANCED DNS TEST (UDP + DoH + ECS)" -ForegroundColor Cyan
+Write-Host "====================================" -ForegroundColor Cyan
+
+# ==============================
+# GET PUBLIC IP + PREFIX
+# ==============================
+
+$ip = (Invoke-WebRequest -Uri 'https://api.ipify.org' -UseBasicParsing).Content.Trim()
+$prefix = $ip -replace '\.\d+$', ''
+
+Write-Host "Your IP: $ip" -ForegroundColor Green
+Write-Host ""
+
+# ==============================
+# DNS LIST
+# ==============================
+
+$dnsList = @(
+    @{ Name="Cloudflare"; Server="1.1.1.1"; Type="UDP" }
+    @{ Name="Google"; Server="8.8.8.8"; Type="UDP" }
+    @{ Name="Quad9"; Server="9.9.9.9"; Type="UDP" }
+
+    @{ Name="Cloudflare DoH"; Server="https://cloudflare-dns.com"; Type="DOH" }
+    @{ Name="Google DoH"; Server="https://dns.google"; Type="DOH" }
+
+    @{ Name="NextDNS Viettel"; Server="https://viettel-han-1.edge.nextdns.io"; Type="DOH" }
+    @{ Name="NextDNS Lightnode"; Server="https://lightnode-han-1.edge.nextdns.io"; Type="DOH" }
+)
+
+# ==============================
+# UDP TEST
+# ==============================
+
+function Test-UDP {
+    param($server)
+
+    $start = Get-Date
+    $result = nslookup google.com $server 2>$null | Out-String
+    $end = Get-Date
+
+    $time = ($end - $start).TotalMilliseconds
+
+    $ecs = @{
+        Google = $false
+        Akamai = $false
+        Cloudflare = $false
+    }
+
+    if ($result -match $prefix) {
+        $ecs.Google = $true
+    }
+
+    return [PSCustomObject]@{
+        Status = ($result -match "Address") ? "OK" : "FAIL"
+        Speed  = [int]$time
+        ECS    = ($ecs.Values | Where-Object { $_ }).Count
+        Detail = ($ecs.GetEnumerator() | Where-Object {$_.Value} | ForEach-Object {$_.Key}) -join ", "
+    }
+}
+
+# ==============================
+# DOH QUERY FUNCTION (JSON)
+# ==============================
+
+function DoH-Query {
+    param($server, $name, $type)
+
+    try {
+        $url = "$server/dns-query?name=$name&type=$type"
+
+        $res = Invoke-WebRequest -Uri $url `
+            -Headers @{ accept = "application/dns-json" } `
+            -TimeoutSec 5 `
+            -UseBasicParsing
+
+        return ($res.Content | ConvertFrom-Json)
+    } catch {
+        return $null
+    }
+}
+
+# ==============================
+# DOH TEST + ECS
+# ==============================
+
+function Test-DOH {
+    param($server, $prefix)
+
+    $start = Get-Date
+    $main = DoH-Query $server "google.com" "A"
+    $end = Get-Date
+
+    if (-not $main) {
+        return [PSCustomObject]@{
+            Status="FAIL"; Speed=9999; ECS=0; Detail=""
+        }
+    }
+
+    $time = ($end - $start).TotalMilliseconds
+
+    $ecs = @{
+        Google = $false
+        Akamai = $false
+        Cloudflare = $false
+    }
+
+    # Google
+    $g = DoH-Query $server "o-o.myaddr.l.google.com" "TXT"
+    if ($g -and ($g.Answer.data -join " ") -match $prefix) {
+        $ecs.Google = $true
+    }
+
+    # Akamai
+    $a = DoH-Query $server "whoami.ds.akahelp.net" "TXT"
+    if ($a -and ($a.Answer.data -join " ") -match $prefix) {
+        $ecs.Akamai = $true
+    }
+
+    # Cloudflare
+    $c = DoH-Query $server "whoami.cloudflare.com" "TXT"
+    if ($c -and ($c.Answer.data -join " ") -match $prefix) {
+        $ecs.Cloudflare = $true
+    }
+
+    $count = ($ecs.Values | Where-Object { $_ }).Count
+
+    return [PSCustomObject]@{
+        Status = "OK"
+        Speed  = [int]$time
+        ECS    = $count
+        Detail = ($ecs.GetEnumerator() | Where-Object {$_.Value} | ForEach-Object {$_.Key}) -join ", "
+    }
+}
+
+# ==============================
+# RUN TEST
+# ==============================
+
+$results = @()
+
+foreach ($dns in $dnsList) {
+
+    Write-Host "Testing: $($dns.Name) [$($dns.Type)]" -ForegroundColor Yellow
+
+    if ($dns.Type -eq "UDP") {
+        $r = Test-UDP $dns.Server
+    } else {
+        $r = Test-DOH $dns.Server $prefix
+    }
+
+    if ($r.Status -eq "OK") {
+        Write-Host "  OK - $($r.Speed) ms | ECS: $($r.ECS)/3 [$($r.Detail)]" -ForegroundColor Green
+    } else {
+        Write-Host "  FAIL" -ForegroundColor Red
+    }
+
+    $score = 0
+    if ($r.Status -eq "OK") { $score += 5 }
+    $score += $r.ECS * 3
+
+    if ($r.Speed -le 20) { $score += 5 }
+    elseif ($r.Speed -le 50) { $score += 3 }
+    elseif ($r.Speed -le 100) { $score += 1 }
+
+    $results += [PSCustomObject]@{
+        Name  = $dns.Name
+        Type  = $dns.Type
+        Speed = $r.Speed
+        ECS   = $r.ECS
+        Score = $score
+    }
+}
+
+# ==============================
+# RANKING
+# ==============================
+
+Write-Host "`n==============================" -ForegroundColor Cyan
+Write-Host "TOP DNS (BEST OVERALL)" -ForegroundColor Cyan
+Write-Host "==============================" -ForegroundColor Cyan
+
+$top = $results | Where-Object { $_.Speed -lt 9999 } |
+    Sort-Object @{Expression='Score';Descending=$true}, 'Speed' |
+    Select-Object -First 5
+
+$i = 1
+foreach ($item in $top) {
+    Write-Host "[$i] $($item.Name) [$($item.Type)] - $($item.Speed) ms | ECS: $($item.ECS)/3 | Score: $($item.Score)" -ForegroundColor Green
+    $i++
+}
+
+Write-Host "`nDONE."
