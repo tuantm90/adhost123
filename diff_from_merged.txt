@@ -141,7 +141,6 @@ a9.com
 aa.birdgesdk.com
 aa.toponad.com
 aab.adxxx.com
-aarth.net
 aas-nv-a.aaxads.com
 aax-cpm.amazon-adsystem.amazon.com
 aax-cpm.amazon-adsystem.com
@@ -284,13 +283,11 @@ ad.mediawayss.com
 ad.mo.doubleclick.net
 ad.movad.net
 ad.mox.tv
-ad.musicmatch.com
 ad.native-ad.net
 ad.nl.doubleclick.net
 ad.pl.doubleclick.net
 ad.pr.ameba.jp
 ad.propellerads.com
-ad.queryly.com
 ad.reklamstore.com
 ad.rfp.fout.jp
 ad.samsungadhub.com
@@ -532,7 +529,6 @@ ads.alt.com
 ads.amxrtb.com
 ads.ants.vn
 ads.api.vungle.com
-ads.apn.co.nz
 ads.appnext.com
 ads.appsgeyser.com
 ads.aralego.com
@@ -790,7 +786,6 @@ adservercheck.net
 adserverwc.adtechus.com
 adservex.media.net
 adservice.google.com
-adservices.brandcdn.com
 adserving.optoutadvertising.com
 adserving.unibet.com
 adsession.exacdn.com
@@ -1193,7 +1188,6 @@ analysis1.ligatus.com
 analysis2.ligatus.com
 analytics-alv.google.com
 analytics-http.mintegral.net
-analytics-prod2.glance-internal.inmobi.com
 analytics-production.hapyak.com
 analytics-sg.tiktok.com
 analytics-tcp.mintegral.net
@@ -1476,7 +1470,6 @@ api.kochava.com
 api.lab.amplitude.com
 api.lijit.com
 api.localytics.com
-api.logrocket.com
 api.luckyorange.com
 api.market.pubnative.net
 api.maxesads.com
@@ -1947,6 +1940,7 @@ b2c-msm.marketo.com
 b2cdn.automatad.com
 b3.districtm.ca
 b3.mookie1.com
+b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 b91vip.com
 b94.yahoo.co.jp
 babanetwork.adk2x.com
@@ -2066,6 +2060,7 @@ beampulse.com
 beap.gemini.yahoo.com
 beauty.native-ad.net
 beaverads.com
+bee7.com
 beeswax.tapjoy.com
 belgikanst.iad-03.braze.com
 belia-glp.com
@@ -2234,6 +2229,7 @@ bypass-adn.ad-stir.com
 bypass-bid.ad-stir.com
 bypass-image.ad-stir.com
 bypass.ad-stir.com
+bytefrom2010.com
 c-adash.m.taobao.com
 c-eus.w.inmobi.com
 c-evt.moatads.com
@@ -2831,6 +2827,7 @@ cdn2.specificmedia.com
 cdn2.tagcommander.com
 cdn2.teads.tv
 cdn3.adspeed.net
+cdn3.aniview.com
 cdn3.bestcontentfood.top
 cdn3.doubleverify.com
 cdn3.specificmedia.com
@@ -3556,6 +3553,7 @@ da-cdn.amazon-adsystem.com
 da.anythinktech.com
 da.bridgeoos.com
 da.hookspf.com
+da.inmobi.com
 da.mossfast.com
 da.mosspf.cn
 da.mosspf.com
@@ -3606,7 +3604,6 @@ data.mistat.rus.xiaomi.com
 data.mixpanel.com
 data.mob.com
 data.optad360.com
-data.queryly.com
 data.sharethis.com
 data.trafficfactory.biz
 data.vungle.com
@@ -3614,6 +3611,8 @@ data1.aniview.com
 data2.ad-score.com
 data2.aniview.com
 data3.aniview.com
+data4.aniview.com
+data4.aniview.com.edgekey.net
 dataapi.adop.cc
 datacapture.serving-sys.com
 datacollector-dra.dt.hicloud.com
@@ -3695,7 +3694,6 @@ delivery.swid.switchadhub.com
 delivery.switchadhub.com
 delivery.taroads.com
 delivery.trafficjunky.net
-delivery.upremium.asia
 delivery.vda.viettel.vn
 delivery.yomedia.vn
 delivery03.ad4game.com
@@ -5069,7 +5067,6 @@ imp.gammaplatform.com
 imp.m.ambient-platform.com
 imp.m.ambientplatform.vn
 imp.outbrain.com
-imp.pvnsolutions.com
 imp.startappservice.com
 imp2.gammaplatform.com
 imp8.bidgear.com
@@ -6266,6 +6263,7 @@ nc.pubpowerplatform.io
 nd.prosilyingles.cyou
 ndtnc.abimimojo2.com
 nebula.im-apps.net
+negyuk.com
 nelo2-col.linecorp.com
 neo.go.sonobi.com
 nep-west.advangelists.com
@@ -6352,6 +6350,7 @@ nrc.sd.duapps.com
 nrc.tapas.net
 nrcapi.ssl2.duapps.com
 ns-cdn.neustar.biz
+ns.zdbb.net
 ns6.a8.net
 ns7.a8.net
 nsb.adxadserv.com
@@ -6389,7 +6388,6 @@ o1.sendgrid.upsight.com
 o2cdn.automatad.com
 oa.openxcdn.net
 oajs.openx.net
-oas.benchmark.fr
 oas.roanoke.com
 ob.cheqzone.com
 oba.media.net
@@ -6781,7 +6779,6 @@ ping.chartbeat.net
 ping.hungama.com
 ping.kitidi.com
 ping.onscroll.com
-ping.taplytics.com
 pinger.ads.nexage.com
 pingfore.qq.com
 pings.conviva.com
@@ -8187,6 +8184,7 @@ showroom.publift.com
 showroom2.publift.com
 sic-akamai.33across.com
 sic.33across.com
+sidebar.angelfire.com
 siftscience.com
 signature.triplelift.com
 simage2.pubmatic.com
@@ -8795,6 +8793,7 @@ stm-collect.cn.miaozhen.com
 stmp.ad.daum.net
 storage.affmates.com
 storage.cloud.kargo.com
+storage.mcwnow.co
 storage.outbrain.com
 store.trafficfactory.biz
 storeconfig.mistat.intl.xiaomi.com
@@ -9022,7 +9021,6 @@ tag.1rx.io
 tag.adbro.me
 tag.adkernel.com
 tag.bounceexchange.com
-tag.brandcdn.com
 tag.contextweb.com
 tag.crsspxl.com
 tag.demandbase.com
@@ -9117,6 +9115,7 @@ telemetry.tradingview.com
 templatein13.net
 tenmax-static.cacafly.net
 tenmaximg.cacafly.net
+tenmaxsgads.blob.core.windows.net
 tenmaxstatic.cacafly.net
 terra8nb.com
 tesla.trafficstars.com
@@ -9177,8 +9176,6 @@ tlog.hiido.com
 tls.ds.duapps.com
 tls.telemetry.swe.quicinc.com
 tlx.3lift.com
-tm-banners.gamingadult.com
-tm-offers.gamingadult.com
 tm.ads.sportradar.com
 tm.r-ad.ne.jp
 tmfpeast-elb.agkn.com
@@ -9501,7 +9498,6 @@ uat.ncaudienceexchange.com
 ucloud.lsosad.com
 udc.yahoo.com
 udm.scorecardresearch.com
-ueikno.com
 uh.nakanohito.jp
 uhealth.care
 uhland24.de
