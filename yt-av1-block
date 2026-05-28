@@ -1,0 +1,3 @@
+www.youtube.com##+js(trusted-replace-argument, MediaSource.isTypeSupported, 0, 0, condition, /av0?1/)
+! block thêm vp9 chỉ dùng h264 - chỉ 1080
+! www.youtube.com##+js(trusted-replace-argument, MediaSource.isTypeSupported, 0, 0, condition, /vp0?9|av0?1/)
