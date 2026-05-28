@@ -1,3 +1,9 @@
+! Title: Bỏ qua av01 YouTube
+! Description: Block av01 on youtube
+! Version: 2026.05.28
+! Homepage: https://github.com/tuantm90/adhost123
+
+! block av1
 www.youtube.com##+js(trusted-replace-argument, MediaSource.isTypeSupported, 0, 0, condition, /av0?1/)
 ! block thêm vp9 chỉ dùng h264 - chỉ 1080
 ! www.youtube.com##+js(trusted-replace-argument, MediaSource.isTypeSupported, 0, 0, condition, /vp0?9|av0?1/)
