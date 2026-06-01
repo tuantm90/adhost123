@@ -66,7 +66,6 @@ a.adtechjp.com
 a.adtechus.com
 a.adtng.com
 a.ants.vn
-a.apkpure.com
 a.appbaqend.com
 a.applovin.com
 a.applvn.com
@@ -127,7 +126,6 @@ a.tribalfusion.com
 a.twiago.com
 a.vdo.ai
 a.vserv.mobi
-a.vtvdigital.vn
 a1.adform.net
 a2.adform.net
 a2.chartboost.com
@@ -144,7 +142,6 @@ a9.com
 aa.birdgesdk.com
 aa.toponad.com
 aab.adxxx.com
-aarth.net
 aas-nv-a.aaxads.com
 aax-cpm.amazon-adsystem.amazon.com
 aax-cpm.amazon-adsystem.com
@@ -570,7 +567,6 @@ ads.epom.com
 ads.eskimi.com
 ads.eu.criteo.com
 ads.everesttech.net
-ads.evidon.com
 ads.exdynsrv.com
 ads.exoclick.com
 ads.exosrv.com
@@ -991,6 +987,7 @@ ae.alcmpn.com
 ae.brand-display.com
 ae.pubmatic.com
 aem-collector-22ylcwym.kgslb.com
+aerodynomach.com
 aes.eu-west.ono.axp.amazon-adsystem.com
 aes.kargo.com
 aeventlog.beacon.qq.com
@@ -1307,6 +1304,7 @@ ap-southeast-1.prod.pr.analytics.console.aws.a2z.com
 ap-southeast.load.exelator.com
 ap.adadvisor.net
 ap.adflex.vn
+ap.api.fpjs.io
 ap.brand-display.com
 ap.cpatrk.net
 ap.lijit.com
@@ -1453,6 +1451,7 @@ api.flat-ads.com
 api.flurry.com
 api.flygame.io
 api.forshrd.com
+api.fpjs.io
 api.fuseplatform.net
 api.fyber.com
 api.gameads.io
@@ -1478,7 +1477,6 @@ api.kochava.com
 api.lab.amplitude.com
 api.lijit.com
 api.localytics.com
-api.logrocket.com
 api.luckyorange.com
 api.market.pubnative.net
 api.maxesads.com
@@ -1720,6 +1718,7 @@ apptrk.a4.tl
 appular.com
 appvast.adsafeprotected.com
 apr.lijit.com
+aps1-turn.fpjs.io
 apsoutheast-match.deepintent.com
 apx.appier.net
 apx.avazutracking.net
@@ -2151,6 +2150,7 @@ bjdxhs.com
 bjhmt.com
 bk.r-ad.ne.jp
 bkrtx.com
+bl-bm.smadex.com
 blackbrake.com
 blank.juicer.cc
 blinkxevent.1rx.io
@@ -2162,6 +2162,8 @@ bluekai.com
 bluepages.smaato.net
 blueswordksh.com
 blutrumpet.com
+bm-ec1.smadex.com
+bm-use1.smadex.com
 bm.moatads.com
 bmycupptafr.com
 board.nend.net
@@ -2186,6 +2188,7 @@ bp.specificclick.net
 bpaqzithab.com
 bpipihwhumif.com
 bquildna43.site
+br-trk.smadex.com
 br.x.cnt.my
 br2.x.cnt.my
 br4.cnt.my
@@ -2204,6 +2207,7 @@ bridgetrack.com
 brief.logrocket.com
 brief.mediaz.vn
 brightcombid.marphezis.com
+brightcriticism.com
 brightroll-partners.tremorhub.com
 browser-http-intake.logs.datadoghq.com
 browser.events.data.msn.com
@@ -2238,6 +2242,7 @@ buyhitscheap.com
 buzzfeed.amp.permutive.com
 bv.frennecharras.com
 bvoffers-elb.go2cloud.org
+bw-trk.smadex.com
 bwlkup.alphonso.tv
 by.pubexchange.com
 bypass-adn.ad-stir.com
@@ -2380,7 +2385,6 @@ careerconnect.marketo.com
 careers.adpushup.com
 careers.hotjar.com
 careers.outbrain.com
-carpet.pulse.inmobi.com
 cas.criteo.com
 casale-match.dotomi.com
 case-attachments.marketo.com
@@ -3061,6 +3065,7 @@ clk.mediago.io
 clk.omgt3.com
 clk.specificclick.net
 clk.wbidder.online
+clkads.com
 clkn.amxrtb.com
 clockskew.alphonso.tv
 clodderpickmaw.com
@@ -3099,6 +3104,7 @@ cm.rdr.creativecdn.com
 cm.send.microad.jp
 cm.send.microadinc.com
 cm.shareaholic.com
+cm.smadex.com
 cm.steepto.com
 cm.tns-counter.ru
 cm2.adform.net
@@ -3241,6 +3247,7 @@ content.exoticads.com
 content.lemonpi.io
 content.mediaforge.com
 content.postrelease.com
+content.smadex.com
 content.swrve.com
 content.tapjoy.com
 contents-tracking.beop.io
@@ -3321,6 +3328,7 @@ cpux.gmud.top
 cpx.polyad.net
 cpxy.a-mo.net
 cr-eec.etp-prod.com
+cr-err.smadex.com
 cr-mon.appier.net
 cr-p22000.ladsp.jp
 cr-p3.ladsp.jp
@@ -3365,6 +3373,7 @@ creatives.lavanetwork.net
 creatives.purpleads.io
 creatives.smaato.com
 creatives.smaato.net
+creatives.smadex.com
 crid.bfmio.com
 criteo-partners.tremorhub.com
 criteo-sync.teads.tv
@@ -3582,6 +3591,7 @@ dacdn.pushcrew.com
 dads.wedobest.com.cn
 dafabet.advertserve.com
 dagd0kz7sipfl.cloudfront.net
+dalymix.com
 dalysh.com
 danarimedia.xml.ak-is2.net
 dart-apac.l.doubleclick.net
@@ -4065,6 +4075,7 @@ edge.uniconsent.com
 edge01.chartbeat.net
 edgecdn.bizible.com
 editorial.outbrain.com
+ee-trk.smadex.com
 ef.alcmpn.com
 effacedefend.com
 efficientdescent.com
@@ -4170,6 +4181,7 @@ eu-west-1.event.prod.bidr.io
 eu-west-endpoint.rtbsuperhub.com
 eu-west.load.exelator.com
 eu.adpicmedia.net
+eu.api.fpjs.io
 eu.cdn5.onthe.io
 eu.creativecdn.com
 eu.data.logs.insight.rapid7.com
@@ -4181,6 +4193,7 @@ eu.y.atwola.com
 eu1.clevertap-prod.com
 eu1.wzrkt.com
 euasync01.admantx.com
+euc1-turn.fpjs.io
 euintraspec.specificmedia.com
 eur-ukp.adsrvr.org
 euro.klick.vn
@@ -4460,7 +4473,6 @@ ga.opmnstr.com
 ga.optmnstr.com
 ga.xdrig.com
 gads.pubmatic.com
-gadsabs.com
 gadskis.com
 galactify.unrulymedia.com
 gallery.adtima.vn
@@ -4504,6 +4516,7 @@ geo-balanced-collect.deltadna.net
 geo-eu.snigelweb.com
 geo-service.aicactus.io
 geo-storage.amxrtb.com
+geo-tracker.smadex.com
 geo-us.snigelweb.com
 geo-weather.adsafety.net
 geo.automatad.com
@@ -5333,7 +5346,6 @@ jenkins.younetmedia.com
 jenkins2.bam-x.com
 jeoway.com
 jewgn8une.com
-jexrkdmiv.com
 jg.wensixuetang.com
 jgl.microad.net
 jhukfaosdjfa.com
@@ -5483,6 +5495,7 @@ klink.volceapplog.com
 klkstrm.kargo.com
 klog.hiido.com
 kmfwrqdp.com
+knkkpmtdesg.com
 knop.yadro.ru
 knxabzznddtc.com
 koindut.com
@@ -5613,6 +5626,7 @@ lightboxcdn.com
 lijit.pixel.invitemedia.com
 link.leanplum.com
 link.swrve.com
+linkads.xyz
 linksprf.com
 linksynergy.com
 lite.automatad.com
@@ -5671,6 +5685,7 @@ log-bizlive.zadn.vn
 log-collector.shopee.vn
 log-config.samsungacr.com
 log-giacngo.zadn.vn
+log-giaoduc.epicdn.me
 log-giaoduc.zadn.vn
 log-giaoducthoidai.epicdn.me
 log-giaoducthoidai.zadn.vn
@@ -5885,6 +5900,7 @@ mantis.autoads.asia
 map.admarvel.com
 map.mediaforge.com
 maps.amung.us
+marasgumpus.com
 marchex.io
 marfeel.com
 marinsm.com
@@ -6384,7 +6400,6 @@ nrc.sd.duapps.com
 nrc.tapas.net
 nrcapi.ssl2.duapps.com
 ns-cdn.neustar.biz
-ns.zdbb.net
 ns6.a8.net
 ns7.a8.net
 nsb.adxadserv.com
@@ -6753,7 +6768,6 @@ pba.automatad.com
 pba.aws.lijit.com
 pba.lijit.com
 pbc.automatad.com
-pbc.getpublica.com
 pbc.vliplatform.com
 pbid.pro-market.net
 pbjs.e-planning.net
@@ -6839,6 +6853,7 @@ pixel-apac.rubiconproject.com
 pixel-api.scupio.com
 pixel-c2s.sitescout.com
 pixel-dsp.bidgear.com
+pixel-ed.smadex.com
 pixel-eu.rubiconproject.com
 pixel-origin.mathtag.com
 pixel-s2s.mathtag.com
@@ -7285,6 +7300,7 @@ pxl.tsyndicate.com
 pxs.atomex.net
 pyicbcxvs.com
 pyxiscablese.com
+pz.mulchimbiber.com
 q.addthis.com
 q.adrta.com
 q.xmlrtb.com
@@ -8485,7 +8501,6 @@ ssum.casalemedia.com
 st-a-id.anthill.vn
 st-a.anthill.vn
 st-a.cdp.asia
-st-a.vtvdigital.vn
 st-a1.anthill.vn
 st-analytics.anthill.vn
 st-au.ants.vn
@@ -8603,6 +8618,7 @@ static-analytics.adkernel.com
 static-cdn.adblade.com
 static-cdn.hotjar.com
 static-cmsads.admicro.vn
+static-content-1.smadex.com
 static-de.ad4mat.net
 static-devex.adblade.com
 static-doubleclick-net.l.google.com
@@ -8765,6 +8781,8 @@ statics-asia.creativecdn.com
 statics-europe.creativecdn.com
 statics-usa.creativecdn.com
 statics.growingio.com
+statics.prd.cdn.g.smadex.com
+statics.smadex.com
 staticvc.adsafeprotected.com
 statistic.ads24h.net
 statistic.batdongsan.com.vn
@@ -8856,7 +8874,6 @@ stm-collect.cn.miaozhen.com
 stmp.ad.daum.net
 storage.affmates.com
 storage.cloud.kargo.com
-storage.mcwnow.co
 storage.outbrain.com
 store.trafficfactory.biz
 storeconfig.mistat.intl.xiaomi.com
@@ -9469,6 +9486,7 @@ traffic.spot.im
 traffic2.adsconex.com
 trafficads.net
 trafficmoose.xml.ak-is2.net
+traktrafficflow.com
 tranquilside.com
 traq.li
 travelholic.adop.cc
@@ -9566,6 +9584,7 @@ uat.ncaudienceexchange.com
 ucloud.lsosad.com
 udc.yahoo.com
 udm.scorecardresearch.com
+ueikno.com
 uh.nakanohito.jp
 uhealth.care
 uhland24.de
@@ -9703,6 +9722,7 @@ usabilla.com
 usasync01.admantx.com
 usc.adserver.snapads.com
 use-tor.adsrvr.org
+use1-turn.fpjs.io
 useast-beacon.deepintent.com
 useast.bfmio.com
 useast.quantumdex.io
@@ -9766,6 +9786,7 @@ v4.moatads.com
 v5.chartboost.com
 v7.deviatetracking.com
 v7event.stats.avast.com
+va-trk.smadex.com
 va6-bid.adsrvr.org
 vacs.movad.net
 vad.appier.net
@@ -10460,6 +10481,7 @@ www.firstimpression.io
 www.flashtalking.com
 www.flurry.com
 www.fouanalytics.com
+www.fpjs.io
 www.fqtag.com
 www.freshmarketer.com
 www.ftd.agency
@@ -10488,6 +10510,7 @@ www.groupm.com
 www.growingio.com
 www.grvmedia.com
 www.gumgum.com
+www.guoshipartners.com
 www.healthsmd.com
 www.heapanalytics.com
 www.heatmap.it
@@ -10728,6 +10751,7 @@ www.skyadsmart.com
 www.slimads.vn
 www.smaato.com
 www.smac-ad.com
+www.smadex.com
 www.smartadserver.com
 www.smartclip-services.com
 www.smartclip.com
