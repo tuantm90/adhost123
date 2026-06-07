@@ -93,11 +93,3 @@ www.google.com##div[jscontroller="Vxh2ib"]
 
 !Chặn hộp thoại đăng nhập Google trên nhiều trang khác nhau
 ||accounts.google.com/gsi/*$xhr,script,3p
-
-! block av1
-www.youtube.com##+js(trusted-replace-argument, MediaSource.isTypeSupported, 0, 0, condition, /av0?1/)
-! block thêm vp9 chỉ dùng h264 - chỉ 1080
-! www.youtube.com##+js(trusted-replace-argument, MediaSource.isTypeSupported, 0, 0, condition, /vp0?9|av0?1/)
-
-!Chọn chất lượng mặc định 1440p
-youtube.com##+js(trusted-set-local-storage-item, yt-player-quality, '{"data":"{\"quality\":1440,\"previousQuality\":1440}","expiration":1911127771660,"creation":$now$}')
