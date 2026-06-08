@@ -34,6 +34,7 @@
 1x1.myfastcdn.com
 2-05.com
 2.afs.googleadservices.com
+2021group.com
 207.net
 22hgc.com
 240.zaloapp.ads.zdn.vn
@@ -1101,6 +1102,7 @@ ads.admatrix.vn
 ads.administrator.de
 ads.adpone.com
 ads.adservme.com
+ads.adsterra.com
 ads.adstream.com.ro
 ads.adtarget.me
 ads.adthrive.com
@@ -1771,6 +1773,7 @@ adstatic.b-cdn.net
 adstats.fastadsonline.com
 adsterra.com
 adsterra.org
+adsterra.rocks
 adstmanger.djaxadserver.com
 adstracking.apps.zing.vn
 adstract.adk2x.com
@@ -2099,6 +2102,7 @@ ae.brand-display.com
 ae.pubmatic.com
 aeffe3nhrua5hua.com
 aegis.qq.com
+aelwynvel.com
 aem-collector-22ylcwym.kgslb.com
 aem-collector.daumkakao.io
 aepxlg.adobe.com
@@ -2469,6 +2473,7 @@ amung.us
 amxrtb.com
 amz-ad.a8.net
 amz.o-s.io
+an.adsterra.com
 an.avast.com
 an.batmobi.net
 an.districtm.ca
@@ -3353,6 +3358,7 @@ asset.bidgear.com
 asset.pubexchange.com
 assets-east.smrtb.com
 assets-main.trafficfactory.biz
+assets-tracking.crazyegg.com
 assets-v3.chartboost.com
 assets.a-mo.net
 assets.ad4m.at
@@ -3429,6 +3435,7 @@ async01.admantx.com
 at-adserver.alltop.com
 at.adtech.redventures.io
 at.atwola.com
+at.deviletcolog.com
 at.umeng.com
 atableofcup.com
 atb.im-apps.net
@@ -3535,6 +3542,7 @@ awempire.com
 aweprt.com
 awhilediplomagloss.com
 awin1.com
+awjojjrimaf.in
 awmdelivery.com
 aws-ac.o-s.io
 aws-api.sail-personalize.com
@@ -4161,6 +4169,7 @@ bsxzc.ttrk.io
 bt.cheqzone.com
 bt.teparytympan.qpon
 btds.zog.link
+btguqecoelukltw.com
 btloader.com
 btlr-ecs-ap-southeast-1.sharethrough.com
 btlr-ecs-us-west-1.sharethrough.com
@@ -5064,6 +5073,7 @@ chl7rysobc3ol6xla.com
 choconart.com
 choupsee.com
 chris-gcp.logrocket.io
+chubbyexemplaryhardiness.com
 chyjobopse.pro
 chytridaustral.com
 ci.adsafeprotected.com
@@ -5108,6 +5118,7 @@ claria.com
 clarity.ms
 clarium.global.ssl.fastly.net
 claroads.com
+claroly75.com
 classic.marketolive.com
 clc.stackoverflow.com
 clck.adskeeper.com
@@ -5519,6 +5530,7 @@ connectad.io
 connectedby.connectad.io
 connection1safety.com
 connextra.com
+conopidlanai.qpon
 consent-dev.mediaforge.com
 consent-manager-events.ogury.io
 consent.ivitrack.com
@@ -5605,6 +5617,7 @@ core.vnecdn.com
 core.yads.tech
 coremetrics.com
 corenlp.admicro.vn
+cornrowbygone.shop
 corp-assets.triplelift.com
 corp.leanplum.com
 corp.specificmedia.com
@@ -6105,6 +6118,7 @@ datafront.co
 datahub.serving-sys.com
 dataserver.adhigh.net
 datatechonert.com
+datatoreplicas.com
 datawrkz.com
 dataxu.com
 datemefast.com
@@ -6424,6 +6438,7 @@ dlx.specificclick.net
 dm-event.net
 dm.aralego.com
 dm.djaxadserver.com
+dm.earnascape.com
 dm.gg
 dm.toutiao.com
 dmads.dailymotion.com
@@ -6539,6 +6554,7 @@ ds-ui-mockups.dev.gumgum.com
 ds-vn.serving-sys.com
 ds.ad.gt
 ds.contextweb.com
+ds.eclick.vn
 ds.gumgum.com
 ds.polyad.net
 ds.serving-sys.com
@@ -6736,6 +6752,7 @@ edaa.sharethis.com
 edayo.boost-next.co.jp
 edba.brealtime.com
 edg.appier.xyz
+edge-hls.saawsedge.com
 edge-west.customer.io
 edge.ad1x.com
 edge.addthis.com
@@ -6779,6 +6796,7 @@ ehealthcaresolutions.com
 ei.imstks.com
 ei.rlcdn.com
 ej.tincheldeluce.com
+ejnhhchykjfyyle.com
 ejs.moatads.com
 el.zucks.net
 elasticchange.com
@@ -7682,6 +7700,7 @@ go.aniview.com.edgekey.net
 go.appnexus.com
 go.automatad.com
 go.bebi.com
+go.bigbang.solutions
 go.blcdog.com
 go.branch.io
 go.conversantmedia.com
@@ -7863,6 +7882,7 @@ guoshipartners.com
 guppymedia.com
 gurgle.zdbb.net
 gusabid.adview.com
+gv.habitanchowses.cyou
 gv1.xdrig.com
 gw-iad-bid.ymmobi.com
 gw.flurry.com
@@ -10076,6 +10096,7 @@ memorizeneck.com
 menu.metu.vn
 mepuzz.com
 merchant.accesstrade.net
+mercurousswaddlesuggest.com
 mercury-int.marketo.com
 merequartz.com
 messagenovice.com
@@ -10480,6 +10501,7 @@ mypowermall.com
 myscreen.com
 mystat-in.net
 mystat.pl
+mysticechohaven.com
 mytdsnet.com
 mythings.com
 mytop-in.net
@@ -10745,6 +10767,7 @@ ntvpforever.com
 ntvpinp.com
 ntvpwpush.com
 ntvsw.com
+nu.subgumgutwise.com
 nuckinxuco.com
 nuclearads.com
 nucopzqt.in
@@ -11141,6 +11164,7 @@ p.o-s.io
 p.presage.io
 p.rfihub.com
 p.s.360.cn
+p.smartads.tech
 p.tanx.com
 p.teads.tv
 p.tvpixel.com
@@ -11217,6 +11241,7 @@ pages.epom.com
 pages.siftscience.com
 pages.taboola.com
 pages2.marketo.com
+pagestates-tracking.crazyegg.com
 pagexray-eu.fouanalytics.com
 pagexray.fouanalytics.com
 pagiwp.com
@@ -11443,6 +11468,7 @@ pgpartner.com
 phaimtoata.com
 phanquang.vn
 pheedo.com
+phfzhmcuazx.com
 phi.novaon.asia
 phicmune.net
 philacct.com
@@ -11725,6 +11751,7 @@ popcash.net
 popcashjs.b-cdn.net
 popclck.org
 popin.cc
+popjoynorit.cfd
 popmansion.com
 popmonetizer.net
 popmonetizer.xml.ak-is2.net
@@ -13164,6 +13191,7 @@ s8t.teads.tv
 s9.addthis.com
 sa.api.intl.miui.com
 sa.scorecardresearch.com
+saawsedge.com
 saber.srvcs.tumblr.com
 sabergood.com
 sablesong.com
@@ -13737,6 +13765,7 @@ smart.styria-digital.com
 smart.tubeadvertising.eu
 smart2cnjuh34jb.com
 smart4ads.com
+smartads.tech
 smartadserver.com
 smartclick.net
 smartclip-services.com
@@ -13831,6 +13860,7 @@ soflopxl.com
 soft-com.biz
 softaignidsoom.net
 softclick.com.br
+softestablishmentfill.com
 soggy-surround.com
 soidc.com
 solarcyclonesky.com
@@ -13953,6 +13983,7 @@ spywarenuker.com
 sq.exonerrotter.com
 sqm.df.telemetry.microsoft.com
 sqm.telemetry.microsoft.com
+squeegetirret.cyou
 squeezely.tech
 sr-weight.rlcdn.com
 sr.opencoccoc.com
@@ -14089,6 +14120,7 @@ st.html.polyad.net
 st.l.a.eclick.vn
 st.n.ads2-adnow.com
 st.polyad.net
+st.smartads.tech
 st.top100.ru
 st.yandexadexchange.net
 stack-sonar.com
@@ -14604,6 +14636,7 @@ success.marketo.com
 sueivypeg.com
 suggest.hotjar.com
 sugoicounter.com
+sujmazbul.in
 sumatoad.com
 sumbreta.com
 summerobject.com
@@ -14823,6 +14856,7 @@ t.o-s.io
 t.pubmatic.com
 t.sharethis.com
 t.singular.net
+t.smartads.tech
 t.spot.im
 t.squeezely.tech
 t.steelhousemedia.com
@@ -15794,6 +15828,7 @@ ufaexpert.com
 ufpcdn.com
 ugdturner.com
 ugroocuw.net
+ugtflnqn.com
 uh.nakanohito.jp
 uhealth.care
 uhland24.de
@@ -16370,6 +16405,7 @@ vnm.louisys.com
 vnn-tracking.vnncdn.net
 vntsm.com
 vntsm.io
+vnumlkbuujd.com
 vo2.qrlsx.com
 vod-newplayer-sg.ap-southeast-1.log.aliyuncs.com
 vod.adspruce.com
@@ -17290,6 +17326,7 @@ www.rubiconproject.com
 www.rudderlabs.com
 www.runative.com
 www.s-onetag.com
+www.saawsedge.com
 www.salesmanago.pl
 www.sbbanner.com
 www.scanscout.com
@@ -17479,6 +17516,7 @@ xapads.com
 xapi.jads.co
 xapi.juicyads.com
 xchange.ro
+xcirtefata.in
 xclicks.net
 xcp.go.sonobi.com
 xdiwbc.com
@@ -17611,6 +17649,8 @@ yesgwyn.com
 yespetor.com
 yeti-api.automatad.com
 yeti.automatad.com
+yh.rostelshute.shop
+yi.polarichip.com
 yield-manager.browsiprod.com
 yield-op-idsync.live.streamtheworld.com
 yieldbird-d.openx.net
@@ -17654,6 +17694,7 @@ youmi.net
 younetmedia.com
 youngle.tech
 your-notice.com
+your.adsterra.com
 youradexchange.com
 yourwebbars.com
 youthfire.com
