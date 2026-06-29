@@ -101,6 +101,7 @@
 3p-udc.yahoo.com
 3pkf5m0gd.com
 3x2.myfastcdn.com
+3xyy.com
 4.adsco.re
 4.afs.googleadservices.com
 44ye.com
@@ -1408,6 +1409,7 @@ ads.planet.nl
 ads.platform.zalo.me
 ads.play.cbsi.video
 ads.playground.xyz
+ads.playstream.media
 ads.pni.com
 ads.pof.com
 ads.powweb.com
@@ -2206,6 +2208,7 @@ agle21xe2anfddirite.com
 agorahtag.tech
 agqoshfujku.com
 agt.distinctrobin.com
+agtcmuohbt.in
 ah-ha.com
 ahalogy.com
 ahdcrajmzbtvj.com
@@ -2424,6 +2427,7 @@ am-vid-events.taboola.com
 am-wf.taboola.com
 am.adlooxtracking.com
 am.alcmpn.com
+am.diecasepachas.cyou
 am15.net
 amare.agency
 amazingcounters.com
@@ -3180,7 +3184,6 @@ app.omappapi.com
 app.oncustomer.asia
 app.opmnstr.com
 app.optmnstr.com
-app.playstream.media
 app.readpeak.com
 app.sbz.workers.dev
 app.segment.com
@@ -3306,6 +3309,7 @@ ariane.abtasty.com
 arm.c.appier.net
 aromamirror.com
 arrogancedanderuntruth.com
+arrogancelullabyjan.com
 arrtakhihfze.in
 arsdev.net
 arsnivyr.com
@@ -3460,6 +3464,7 @@ atableofcup.com
 atb.im-apps.net
 atdmt.com
 atdnetwork.com
+atdxamakqo.in
 ateam-ad.jp
 athena-ads.wikia.com
 ati-host.net
@@ -3859,6 +3864,7 @@ beemray.com
 beesads.com
 beestark.com
 beeswax.tapjoy.com
+beetlecrossshoulder.com
 befirstcdn.com
 begun.ru
 behavioralengine.com
@@ -4069,6 +4075,7 @@ boilingbeetle.com
 bojel.com
 boldchat.com
 bollywoodmenswear.com
+bolsterate.net
 bondeddarkenedswerve.com
 bondleapedoasis.com
 bonepa.com
@@ -4110,6 +4117,7 @@ bpacihfabm.com
 bpaqzithab.com
 bpath.com
 bpipihwhumif.com
+bqrjotqnqh.com
 bqstreamer.com
 bquildna43.site
 br-trk.smadex.com
@@ -4376,6 +4384,7 @@ cache.specificmedia.com
 cache.sxp.smartclip.net
 cachegorilla.com
 cachegorilla.xml.ak-is2.net
+cacklegrievingtank.com
 caclick.baidu.com
 cactusheadroomscaling.com
 cad.youku.com
@@ -4794,6 +4803,7 @@ cdn.pbxai.com
 cdn.permutive.com
 cdn.personaclick.com
 cdn.petametrics.com
+cdn.playstream.media
 cdn.pncloudfl.com
 cdn.pocpoc.io
 cdn.polarbyte.com
@@ -5181,6 +5191,7 @@ click-dsp-nym2.adkernel.com
 click-dsp-uswest.adkernel.com
 click-dsp.adkernel.com
 click-east.acuityplatform.com
+click-eu-v4.junclikrmedi.com
 click-eu-v4.mainexclkdir.com
 click-eu.expmediadirect1.com
 click-eu.pclk.name
@@ -5188,6 +5199,7 @@ click-euro.acuityplatform.com
 click-haproxy.supersonicads.com
 click-mdsp.avazutracking.net
 click-v4.jadspro.live
+click-v4.junclikrmedi.com
 click-v4.mainexclkdir.com
 click-west.acuityplatform.com
 click.a-ads.com
@@ -5210,6 +5222,7 @@ click.goraps.com
 click.hm.baidu.com
 click.hooligapps.com
 click.howdoesin.net
+click.junclikrmedi.com
 click.justpremium.com
 click.kau.li
 click.kmindex.ru
@@ -6816,6 +6829,7 @@ edgeio.com
 editorial.outbrain.com
 ee-trk.smadex.com
 eehuzaih.com
+eelfpsgnicy.com
 ef-dongfeng.tanx.com
 ef.alcmpn.com
 effacedefend.com
@@ -7450,6 +7464,7 @@ frtn.socdm.com
 fs-client-logger.herokuapp.com
 fs.moatads.com
 fs.specificmedia.com
+fsavmklplmddsu.com
 fslt.wpm.neustar.biz
 fsxmidyo.com
 ft.budtawney.com
@@ -7517,6 +7532,7 @@ ga.omappapi.com
 ga.opmnstr.com
 ga.optmnstr.com
 ga.xdrig.com
+gadmagckfy.com
 gads.pubmatic.com
 gadsabs.com
 gadsatz.com
@@ -7663,6 +7679,7 @@ gif.brealtime.com
 gif.simpleanalytics.io
 gifsandbox.ssl2.duapps.com
 giggedguddle.com
+gigglemagnetismunaired.com
 gimoqwmikakv.com
 ginchoirblessed.com
 ginpithed.live
@@ -8037,6 +8054,7 @@ hccxwfunnpxngz.com
 hd.logging.admicro.vn
 hd.mmstat.com
 hdatssfpxrwbxs.com
+hdlyfrxtnjpbc.site
 hdmtools.com
 he.lijit.com
 header.mathtag.com
@@ -8835,6 +8853,7 @@ ironsource.mobi
 irqs.ioam.de
 is-gateway.supersonicads.com
 is.accesstrade.net
+is.ptinusmufasal.com
 is.yllix.com
 isboost.genieesspv.jp
 isgame.ds.duapps.com
@@ -8923,6 +8942,7 @@ jfan1.com
 jfjle4g5l.com
 jg.wensixuetang.com
 jgl.microad.net
+jgqpddekjd.com
 jhukfaosdjfa.com
 jijswitreaqv.in
 jill.fc.yahoo.com
@@ -8935,6 +8955,7 @@ jira.smaato.net
 jitqwooztonj.in
 jitterspauperusher.com
 jivox.com
+jkykczdwuchq.com
 jl63v3fp1.com
 jm.moatads.com
 jma.genieesspv.jp
@@ -9068,6 +9089,7 @@ juicer.cc
 juicyads.com
 julysystems.com
 jumptap.com
+junclikrmedi.com
 junmediadirect1.com
 justicejudo.com
 justpremium.com
@@ -9763,6 +9785,7 @@ lunarads.com
 luxope.com
 lwgadm.com
 lwonclbench.com
+lwxoothcoq.com
 lyncaws2.exponential.com
 lyncdiscover.exponential.com
 lyncshare.exponential.com
@@ -10852,6 +10875,7 @@ nv.shunnerencinal.shop
 nv.vi-serve.com
 nv3tosjqd.com
 nvirginia-my.mobfox.com
+nwfnsitaes.com
 nxtck.com
 ny.damasseakamai.com
 ny.outbrain.com
@@ -10917,6 +10941,7 @@ ocsext.exponential.com
 ocsext1.exponential.com
 ocsp.msocsp.comcdn.bttrack.com
 ocx.umeng.com
+od.stimefloccus.shop
 odb.outbrain.com
 oddsserve.com
 odm.app-ads-services.com
@@ -10965,6 +10990,7 @@ ojwoqdpiwdt.com
 ok.appnexus.com
 okjmiqaqjakm.in
 okspeechlessamong.com
+ol.virtuewich.com
 old.indoleads.com
 oljqobudyusf.com
 om.cbsi.com
@@ -11752,6 +11778,7 @@ player.fatchilli.media
 player.hb.selectmedia.asia
 player.kmpmedia.net
 player.mediafuse.com
+player.playstream.media
 player.selectmedia.asia
 player.stats.live-video.net
 player.unocdn.com
@@ -11861,6 +11888,7 @@ portal.batmobi.net
 portal.brealtime.com
 portal.clickagy.com
 portal.faktor.io
+portalfluently.com
 pos.baidu.com
 poshhateful.com
 possibleboats.com
@@ -12021,6 +12049,7 @@ prod.ugdturner.com
 prod.uidapi.com
 prod.xtremepush.com
 prod305.trackpush.com
+prodcdn.playstream.media
 producerplot.com
 product.adtima.vn
 production-tracking.riviu.co
@@ -12110,6 +12139,7 @@ ps.popcash.net
 psa.appnexus.com
 psaltauw.net
 psankei.chartbeat.net
+pscontent.playstream.media
 pson.logging.admicro.vn
 psoroumukr.com
 psstt.com
@@ -12383,6 +12413,7 @@ qiptamcupl.com
 qlfqkjluvz.com
 qlog.adap.tv
 qmobi.hotrk0.com
+qmyoclrszpanh.website
 qn.unspedtaction.com
 qnp16tstw.com
 qnsr.com
@@ -12395,6 +12426,7 @@ qrlsx.com
 qs.ioam.de
 qs251.com
 qsearch.media.net
+qsocxhfdopwj.com
 quad.yadro.ru
 quakemarketing.com
 qualaroo.com
@@ -13094,6 +13126,7 @@ rwulzuaqsafn.com
 rxcdn.1rx.io
 rxeosevsso.com
 ryeqnyvbncdvg.com
+ryxbowubroqka.online
 rzuohgfwyoxx.com
 s-a.innovid.com
 s-ad.rmp.rakuten.co.jp
@@ -13326,6 +13359,7 @@ sandbox.outbrain.com
 sandbox.ssl2.duapps.com
 sandbox.stickyadstv.com
 sanoslkut.in
+sanynouncem.org
 satisfactorymetalrub.com
 satisfycork.com
 sb.bidswitch.net
@@ -13818,6 +13852,7 @@ siteswithcontent.com
 siweieoyjl.com
 sixscissors.com
 sixsigmatraffic.com
+sj.coemptsruesome.shop
 sjarvis.taobao.com
 sjc-login.dotomi.com
 sjc.ads0.nexage.com
@@ -15384,6 +15419,7 @@ topsites.com.br
 topstats.com
 toptrendyinc.com
 toqdizbfp.com
+toroexoclk.com
 torrentz.adclixx.net
 torrentz.adnetasia.com
 torrentz.adtrackers.net
@@ -16297,6 +16333,7 @@ vastpixel.getpublica.com
 vastpixel2.adsafeprotected.com
 vastpixel3.adsafeprotected.com
 vastproxy.brand.inmobi.com
+vastps.playstream.media
 vastx.moatads.com
 vaugroar.com
 vawpro.vm5apis.com
@@ -16439,6 +16476,7 @@ vidsrev.com
 vidstat.taboola.com
 vidtent.andbeyond.media
 vidverto.io
+vidwestxyz.com
 vieon-tracking.vieon.vn
 vietbuzzad.com
 vietdorje.com
@@ -16575,6 +16613,7 @@ w.inmobi.com
 w.sharethis.com
 w.staging.sharethis.com
 w.vip.dfw2.inmobi.cn
+w0we.com
 w0wtrackex.com
 w1.luckyorange.com
 w3-reporting-nel.reddit.com
@@ -16618,6 +16657,7 @@ wct-2.com
 wct.link
 wd-edge.sharethis.com
 wd.adcolony.com
+wd.macherabemaim.shop
 wd.sharethis.com
 wd.staging.sharethis.com
 wda.com
@@ -16728,6 +16768,7 @@ whisperingcrib.com
 whisperofisaak.com
 whitelabel.media.net
 whm.asianmedia.com
+whoeverpensivepaternity.com
 whoisonline.net
 whos.amung.us
 whosthat.ssl2.duapps.com
@@ -17266,6 +17307,7 @@ www.jsecoin.com
 www.jsonip.com
 www.juicer.cc
 www.juicyads.com
+www.junclikrmedi.com
 www.justpremium.com
 www.kaplanindex.com
 www.ketchapp.org
@@ -17384,6 +17426,7 @@ www.permutive.com
 www.phoossax.net
 www.phukienthoitranggiare.com
 www.pinetech.vn
+www.playstream.media
 www.polarbyte.com
 www.popads.net
 www.popadscdn.net
@@ -17706,6 +17749,7 @@ xmlwolf.com
 xmlwolf.xml.ak-is2.net
 xng.trbo.com
 xnocffar.com
+xo.gippedtutelo.cyou
 xoom-ads.com
 xp.retinichawks.cyou
 xpe9.com
@@ -17884,6 +17928,7 @@ zdbb.net
 zedo.com
 zeekaihu.net
 zekiatagur.com
+zeloru.com
 zem-us-west.outbrain.com
 zemanta.com
 zenadservices.net
@@ -17918,6 +17963,7 @@ zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
 zoe.zucks.net
 zog.link
+zogfwunf.com
 zonedummy.com
 zookeeper01.aatkit.com
 zoosnet.net
