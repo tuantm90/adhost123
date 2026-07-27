@@ -266,7 +266,6 @@ ad.il.doubleclick.net
 ad.impactify.io
 ad.impactify.media
 ad.jiguang.cn
-ad.jp.ap.valuecommerce.com
 ad.kau.li
 ad.lavanetwork.net
 ad.leadboltads.net
@@ -740,6 +739,7 @@ ads1.careerbuilder.vn
 ads1.mediacapital.pt
 ads13.exoticads.com
 ads15.exoticads.com
+ads2.brazzers.com
 ads2.contentabc.com
 ads2.msn.com
 ads2.servebom.com
@@ -895,6 +895,7 @@ adv2.clickadu.net
 adv3.clickadu.net
 advbanners.global.ssl.fastly.net
 adventurefeeds.xml-eu.ak-is2.net
+adventurefeeds.xml-v4.ak-is2.net
 adventurefeeds.xml-v6.ak-is2.net
 adventurefeeds.xml.ak-is2.net
 advergine.com
@@ -1176,7 +1177,6 @@ ambientdsp.cachefly.net
 ambleads.com
 amelia.outbrain.com
 amidt.adsafeprotected.com
-aml.valuecommerce.com
 amobee-partners.tremorhub.com
 amp-cl1.mediaforge.com
 amp-cluster.mediaforge.com
@@ -1279,6 +1279,7 @@ analytics.novanet.vn
 analytics.onfluencer.net
 analytics.pangle-ads.com
 analytics.phando.com
+analytics.pixels.ai
 analytics.pokki.com
 analytics.polarbyte.com
 analytics.proper.io
@@ -2295,6 +2296,7 @@ bus.clevernt.com
 business-api.tiktok.com
 business-api.tiktokw.us
 business.cleverads.vn
+business.yingliangads.com
 butalksuw9dj10.com
 button-share.zalo.me
 buttons.googlesyndication.com
@@ -2685,6 +2687,7 @@ cdn.gameads.io
 cdn.getclicky.com
 cdn.ggsfq.com
 cdn.gmossp-sp.jp
+cdn.gumgum.com
 cdn.hadron.ad.gt
 cdn.hadronid.net
 cdn.hbbtv.smartclip.net
@@ -3173,7 +3176,6 @@ cm2.adform.net
 cm3.adform.net
 cma.kargo.com
 cma.production.us-east-1.kops.kargo.com
-cmap.alibaba.com
 cml.sad.ukrd.com
 cmp-dev.advertising.com
 cmp.advertising.com
@@ -3899,6 +3901,7 @@ diagnostics.id5-sync.com
 dialin.exponential.com
 diff.smartadserver.com
 diff3.smartadserver.com
+dig.bdurl.net
 digital.younetmedia.com
 diguver.com
 dimaria.alphonso.tv
@@ -4569,9 +4572,11 @@ galactify.unrulymedia.com
 gallery.adtima.vn
 gallery.smartadserver.com
 game-static.hotngay.vn
+game.eve.mdt.qq.com
 game.flygame.io
 game.hotngay.vn
 game.ssl2.duapps.com
+game.str.mdt.qq.com
 gameads-admin.applifier.com
 games.cityads.com
 games.wiinvent.tv
@@ -5065,6 +5070,7 @@ idsync.frontend.weborama.fr
 idsync.rlcdn.com
 idsync.segment.com
 idx.liadm.com
+ie.purauwede.qpon
 ieyipznx.art
 ifctpads.inmobicdn.net
 iframe.adxxx.com
@@ -5412,6 +5418,7 @@ iv.doubleclick.net
 ivan.indoleads.com
 ivdjs.com
 ixsquare.indexexchange.com
+iy.agynarysyun.cyou
 j.6sc.co
 j.adlooxtracking.com
 j.clean.gg
@@ -5737,6 +5744,7 @@ livetracker.voa.pangea-cms.com
 lizzworld.site
 lkm-admin.trafficfactory.biz
 ll.zucks.net
+llink.site
 llxads.com
 lm.a8.net
 lm.serving-sys.com
@@ -5994,7 +6002,6 @@ makafdsugxco.com
 maltunfaithfulpredominant.com
 malware-scan.com
 manage.adtima.vn
-manage.aniview.com
 manage.epom.com
 manage.galaxiemedia.fr
 manage.juicyads.com
@@ -6448,6 +6455,7 @@ nexus.ad4mat.net
 nexus.ensighten.com
 nexus.upsight.com
 neymar.alphonso.tv
+nhttvqorwq.com
 nibble-cloud.brealtime.com
 nicealerts.youbora.com
 nicksstevmark.com
@@ -6666,6 +6674,7 @@ orylhull.com
 orywrjsf.com
 oscdn.batmobi.net
 osknimkihvr.com
+oth.bls.mdt.qq.com
 oth.eve.mdt.qq.com
 oth.str.mdt.qq.com
 other.geniee.jp
@@ -8351,6 +8360,7 @@ sg-vid-events.taboola.com
 sg-wf.taboola.com
 sg.adserver.yahoo.com
 sg.as.y.atwola.com
+sg.bls.mdt.qq.com
 sg.c.appier.net
 sg.cityads.com
 sg.galileotelemetry.tencent.com
@@ -8559,6 +8569,7 @@ spx-s1.agl006.host
 spx.smaato.com
 spy.staticstuff.net
 spywarenuker.com
+sq.bls.mdt.qq.com
 sq.exonerrotter.com
 sqm.df.telemetry.microsoft.com
 sqm.telemetry.microsoft.com
@@ -9188,6 +9199,7 @@ syndication.winadx.com
 synthetics-horde.nr-data.net
 sypnios.com
 sys.vidsrev.com
+system-notify.app
 system.adtarget.me
 system.indexexchange.com
 systracking.admicro.vn
@@ -9678,7 +9690,6 @@ trenddigital.vn
 trends.revcontent.com
 tring.clo.footprintdns.com
 tristatemyo.com
-trj.valuecommerce.com
 trk.123c.vn
 trk.ambientdsp.com
 trk.atomex.net
@@ -9976,6 +9987,7 @@ vacs.movad.net
 vad.appier.net
 vads-api.ad.daum.net
 val.atm.youku.com
+valuecommerce.com
 valuesponsor.com
 vans.adsafeprotected.com
 vantagemarketads.com
@@ -10024,6 +10036,7 @@ vcdn.adnxs.com
 vcdn.anthill.vn
 vcdn.media.innity.net
 vcdn.tsyndicate.com
+vd.bundthoecake.cyou
 vdapp.nend.net
 vdna.exelator.com
 vdo.unibots.in
@@ -10047,6 +10060,7 @@ vet-us-east-1.track.smaato.net
 vh.adscale.de
 vi-tag.net
 vi.adxxx.com
+vi.bls.mdt.qq.com
 vi.gumgum.com
 vi.prodsgrazers.com
 via.batch.com
@@ -11207,6 +11221,8 @@ yummy.consumable.com
 yummy2.consumable.com
 yvcchjdiqzpog.rocks
 yx.mousesprepuce.shop
+yyb.eve.mdt.qq.com
+yyb.str.mdt.qq.com
 z-na.amazon-adsystems.com
 z.cdn.adtarget.market
 z.cdn.adtarget.me
