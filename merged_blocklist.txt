@@ -1560,6 +1560,7 @@ ads.youtube.com
 ads.zalo.me
 ads.zaloapp.com
 ads.zascdn.me
+ads.zorvec.name
 ads.zorvec.top
 ads.zunia.vn
 ads04.tapsense.com
@@ -2453,8 +2454,11 @@ am-vid-events.taboola.com
 am-wf.taboola.com
 am.adlooxtracking.com
 am.alcmpn.com
+am.blueduckredapple.com
 am.diecasepachas.cyou
+am.everestop.io
 am.teindpumpage.cfd
+am.thecatmachine.com
 am15.net
 amare.agency
 amazingcounters.com
@@ -2845,6 +2849,7 @@ api-c.hiaiabc.com
 api-compatible.mixpanel.com
 api-d.hiaiabc.com
 api-df.hiaiabc.com
+api-eu-a.bidmachine.io.
 api-eu.bidmachine.io
 api-exc.hiaiabc.com
 api-gd.hiaiabc.com
@@ -2929,6 +2934,7 @@ api.b2c.com
 api.bam-x.com
 api.batch.com
 api.batterylab.duapps.com
+api.bidmachine.io
 api.bingads.microsoft.com
 api.boclinkads.com
 api.bounceexchange.com
@@ -4022,6 +4028,7 @@ biddr.dev.brealtime.com
 bidfilter.com
 bidgear.com
 bidgear.rtb.adtarget.biz
+bidmachine.io
 bidproxy.ibillboard.com
 bidr.io
 bids-nc-a.aaxads.com
@@ -4095,6 +4102,7 @@ blue.thehill.com
 blueadss.com
 bluecava.com
 blueconic.net
+blueduckredapple.com
 blueeagle.smaato.net
 bluegrasstoday.adspeed.net
 bluekai.com
@@ -5249,6 +5257,7 @@ clevernt.com
 cleverpush.com
 clevertap-prod.com
 clevertap.com
+cleverwebserver.com
 clg.doublemax.net
 cli.ambient-platform.com
 cli.linksynergy.com
@@ -5653,6 +5662,7 @@ connextra.com
 conopidlanai.qpon
 consent-dev.mediaforge.com
 consent-manager-events.ogury.io
+consent.easybrain.com
 consent.ivitrack.com
 consent.linksynergy.com
 consent.mediaforge.com
@@ -5908,6 +5918,7 @@ crm.ants.vn
 crmpt.livejasmin.com
 crmt.livejasmin.com
 croakglanceskier.com
+cross-promo-provider.easybrain.com
 cross.aniview.com
 cross.gameads.io
 crosspromo.voodoo.io
@@ -6036,6 +6047,7 @@ d.applovin.com
 d.applvn.com
 d.batmobi.net
 d.bizible.com
+d.blueduckredapple.com
 d.blueserving.com
 d.c.appier.net
 d.cfjump.com
@@ -6056,6 +6068,7 @@ d.r10.mopub.com
 d.reddit.com
 d.scorecardresearch.com
 d.shareaholic.com
+d.thecatmachine.com
 d.turn.com
 d.us.criteo.com
 d.uuidksinc.net
@@ -7092,6 +7105,7 @@ etracker.de
 ets-ap-southeast-1.track.smaato.net
 ets-eu-west-1.track.smaato.net
 ets-us-east-1.track.smaato.net
+ets.easybrain.com
 eu-1-id5-sync.com
 eu-1a.connectad.io
 eu-adcenter.net
@@ -7313,6 +7327,7 @@ eyeviewads.com
 eyewonder.com
 ezca.asia
 ezcgojaamg.com
+ezdkixzdkr.com
 ezmob.com
 ezmob.fs.ak-is2.net
 ezodn.com
@@ -7323,10 +7338,12 @@ ezula.com
 f-api.accesstrade.net
 f-emc.ngsp.gov.vn
 f-rtg2.bumlam.com
+f.blueduckredapple.com
 f.clarity.ms
 f.everestop.io
 f.m2.ai
 f.novanet.vn
+f.thecatmachine.com
 f.trazk.com
 f2.ad.gt
 f2.novanet.vn
@@ -7376,6 +7393,7 @@ fb.adsrvr.org
 fb.onthe.io
 fbapi.sd.duapps.com
 fbcdn2.com
+fbgbskzvbvzokr.com
 fbuser.ovp.vn
 fcanr.tracking.miui.com
 fcd.autoads.asia
@@ -7666,6 +7684,7 @@ gameanalytics.com
 games.cityads.com
 games.wiinvent.tv
 gamesrevenue.com
+gamestats.easybrain.com
 gamma.cachefly.net
 gammaplatform.com
 gammassp.com
@@ -7782,6 +7801,7 @@ ghkbid.adview.com
 ghochv3eng.trafficmanager.net
 ght.kernh41.com
 gi-js.genieessp.com
+gi.bagwashhabeas.qpon
 giddycoat.com
 gif.brealtime.com
 gif.simpleanalytics.io
@@ -7819,6 +7839,7 @@ glance.l.inmobicdn.net
 glassesoftruth.com
 glassmilheart.com
 glazingretentionupcoming.com
+gldmel.com
 gleetresis.com
 glersakr.com
 glimtors.net
@@ -8373,6 +8394,7 @@ hyperpromote.com
 hypertracker.com
 hypertusk.com
 hypestat.com
+hypnagogicsoundsuddenly.com
 hz-telemetry.adobe.io
 hz.mmstat.com
 i-adq.mediation.unity3d.com
@@ -9947,6 +9969,7 @@ luminati.io
 lumupu.xyz
 lunarads.com
 luxope.com
+lvesfrucnt.com
 lwgadm.com
 lwonclbench.com
 lwxoothcoq.com
@@ -11365,6 +11388,7 @@ othstr.beacon.qq.com
 otieu.com
 otm-r.com
 otnolatrnup.com
+otqmunvibzp.in
 oustoope.com
 out-there-media.com
 out.popads.net
@@ -12441,6 +12465,7 @@ pubmatic-match.dotomi.com
 pubmatic.bbvms.com
 pubmatic.com
 pubmine.com
+pubnation.com
 pubnative.info
 pubnative.net
 pubpowerplatform.io
@@ -12572,6 +12597,7 @@ pyicbcxvs.com
 pymx5.com
 pyxiscablese.com
 pz.mulchimbiber.com
+pzaovfjaja.in
 pzd.rakuten.co.jp
 pzpvweoxjm.com
 q.addthis.com
@@ -12752,6 +12778,7 @@ ramp.purch.com
 rampanel.com
 rampidads.com
 rancher.showheroes.com
+randxogc.com
 randy-maugans.trafficfactory.biz
 rank-master.com
 rankchamp.de
@@ -12919,6 +12946,7 @@ register.powerlinks.com
 registry.connatix.com
 regnow.com
 regulationprivilegescan.top
+reinscreendecompose.com
 reklamstore.com
 rel-s.com
 relaido.jp
@@ -13381,6 +13409,7 @@ s.amazon-adsystem.com
 s.axonix.com
 s.baomoi.xdn.vn
 s.beop.io
+s.blueduckredapple.com
 s.bollywoodmenswear.com
 s.c.appier.net
 s.click.aliexpress.com
@@ -13442,6 +13471,7 @@ s.sharethis.com
 s.side3.zucks.net
 s.soha.vn
 s.tenmax.io
+s.thecatmachine.com
 s.tribalfusion.com
 s.truepush.com
 s.trvdp.com
@@ -13501,6 +13531,8 @@ s2s.t13.io
 s2s.yieldlove-ad-serving.net
 s2stracking.g2afse.com
 s3-analytics-events.easybrain.com
+s3-ca-liveops.easybrain.com
+s3-playable-ads.easybrain.com
 s3-us.servebom.com
 s3.addthis.com
 s3.adpia.vn
@@ -13538,6 +13570,7 @@ sablesong.com
 sac.ayads.co
 sact.atdmt.com
 sacwumsf.com
+sads.adsboosters.xyz
 safebrowsdv.com
 safegraph.com
 safestgatetocontent.com
@@ -14034,6 +14067,7 @@ showroom.publift.com
 showroom2.publift.com
 shpee.eco
 si.hikerfaquirs.com
+si.humatesmyiosis.com
 sibautomation.com
 sic-akamai.33across.com
 sic.33across.com
@@ -15222,7 +15256,6 @@ t.easyads28.mobi
 t.eclick.vn
 t.effectivemeasure.net
 t.eloqua.com
-t.everestop.io
 t.firstpromoter.com
 t.freelancer.com
 t.g.l.inmobicdn.net
@@ -15507,6 +15540,7 @@ the-ozone-project.com
 theadex.com
 theadhost.com
 thebugs.ws
+thecatmachine.com
 theekedgleamed.com
 theeptoah.com
 theetheks.com
@@ -16134,6 +16168,7 @@ tubecorp.com
 tubecup.net
 tubemogul-sync.dotomi.com
 tubemogul.com
+tuckerclassesjackal.com
 tuesdayfetidlit.com
 tuffoonincaged.com
 tumblebit.com
@@ -16900,12 +16935,14 @@ vz-cdn.trafficjunky.net
 w.1igzn4xcl7fne6b.cfd
 w.ad.style
 w.adsco.re
+w.blueduckredapple.com
 w.everestop.io
 w.ic.tynt.com
 w.inmobi.cn
 w.inmobi.com
 w.sharethis.com
 w.staging.sharethis.com
+w.thecatmachine.com
 w.vip.dfw2.inmobi.cn
 w0we.com
 w0wtrackex.com
@@ -16960,6 +16997,7 @@ wda.com
 wdads.sx.atl.publicus.com
 wdc.rttrk.com
 wdc.ttrk.io
+wdlyhnddxm.com
 wdqhdqtlxu.com
 wearadmiration.com
 wearemiq.com
@@ -17437,6 +17475,7 @@ www.bizographics.com
 www.bkrtx.com
 www.blockadsnot.com
 www.blueadss.com
+www.blueduckredapple.com
 www.blueseed.tv
 www.boffoadsfeeds.com
 www.bollywoodmenswear.com
@@ -17520,6 +17559,7 @@ www.epom.com
 www.eskimi.com
 www.ethicalads.io
 www.everestjs.net
+www.everestop.io
 www.evidon.com
 www.exelator.com
 www.exoclick.com
@@ -17846,6 +17886,7 @@ www.tapjoy.com
 www.taplytics.com
 www.teads.tv
 www.tenmax.io
+www.thecatmachine.com
 www.themediagrid.com
 www.themoneytizer.com
 www.theweblocker.net
@@ -18158,6 +18199,7 @@ ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 ymetrica1.com
 ymtracking.com
+yo.hostalpitylus.shop
 yoads.net
 yoc-adserver.com
 yoc-performance.com
@@ -18200,6 +18242,7 @@ yx.mousesprepuce.shop
 yyb.eve.mdt.qq.com
 yyb.str.mdt.qq.com
 yyselrqpyu.com
+yzwtz.com
 z-eu.amazon-adsystem.com
 z-fe.amazon-adsystem.com
 z-in.amazon-adsystem.com
