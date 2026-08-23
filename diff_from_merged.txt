@@ -536,7 +536,6 @@ ads.aerserv.com
 ads.affiliates.match.com
 ads.allizom.org
 ads.alphonso.tv
-ads.alt.com
 ads.amxrtb.com
 ads.ants.vn
 ads.api.vungle.com
@@ -596,6 +595,7 @@ ads.gmodules.com
 ads.google.com
 ads.gumgum.com
 ads.guru3d.com
+ads.harvard.edu
 ads.heyzap.com
 ads.homedy.net
 ads.hulu.com
@@ -1287,7 +1287,6 @@ analytics.icons8.com
 analytics.iperceptions.com
 analytics.jeoway.com
 analytics.kau.li
-analytics.kidoz.net
 analytics.livestream.com
 analytics.localytics.com
 analytics.logsss.com
@@ -2143,6 +2142,7 @@ beacon.errorception.com
 beacon.gu-web.net
 beacon.lijit.com
 beacon.mlytics.com
+beacon.riskified.com
 beacon.rubiconproject.com
 beacon.s-onetag.com
 beacon.scorecardresearch.com
@@ -2403,6 +2403,7 @@ c.parkingcrew.net
 c.pub.network
 c.quantserve.com
 c.r10.mopub.com
+c.riskified.com
 c.scorecardresearch.com
 c.siteswithcontent.com
 c.srvpcn.com
@@ -3556,7 +3557,6 @@ currency.prebid.org
 currency.pubpowerplatform.io
 currents.parsely.com
 customer-pages.leanplum.com
-customer.io
 cvt-s1.adangle.online
 cvt-s1.agl006.host
 cvt-s2.adangle.online
@@ -4208,7 +4208,6 @@ edayo.boost-next.co.jp
 edba.brealtime.com
 edg.appier.xyz
 edge-hls.saawsedge.com
-edge-west.customer.io
 edge.ad1x.com
 edge.addthis.com
 edge.ads.twitch.tv
@@ -4464,7 +4463,6 @@ f.trazk.com
 f2.ad.gt
 f2.novanet.vn
 fa.fpt.shop
-facebook-ads.hara.vn
 facebookad.for88vn.com
 facebookid.younetmedia.com
 facebookinbox-omni-onapp.haravan.com
@@ -4813,7 +4811,6 @@ goldbach.com
 golds.lp.mydas.mobi
 gondar.meitustat.com
 gonzogrape.gumgum.com
-google-ads.hara.vn
 google-bidout-d.openx.net
 google.east-s2s.1rx.io
 googleads.g.doubleclick.net
@@ -4833,7 +4830,6 @@ grafana.indoleads.com
 grafana.outbrain.com
 grafana.prod.leanplum.com
 grafana.staging.leanplum.com
-graizoah.com
 grand-central.showheroes.com
 grand-prix.cityads.com
 graphql.logrocket.com
@@ -4950,7 +4946,6 @@ he.lijit.com
 header.mathtag.com
 healcheck.adpia.vn
 healthsmd.com
-heardaccumulatebeans.com
 heisenberg.inmobicdn.net
 helix.inmobi.cn
 hello.andbeyond.media
@@ -5789,7 +5784,6 @@ libs.outbrain.com
 lidl.media01.eu
 lifescript.alcmpn.com
 lightboxcdn.com
-lightningbarrelwretch.com
 lijit.pixel.invitemedia.com
 link-booster.de
 link.leanplum.com
@@ -5957,7 +5951,6 @@ login.gammaplatform.com
 logos.choice.faktor.io
 logpostback.media.net
 logql.yahoo.co.jp
-logriancesenius.com
 logrocket.com
 logru.vietnamplus.vn
 logs.1cdn.vn
@@ -6098,7 +6091,6 @@ marketing.exponential.com
 marketing.outbrain.com
 marketing.triplelift.com
 marketingai.admicro.vn
-marketolive.com
 marketplace.trafficjunky.net
 martech.condenastdigital.com
 martyrcontrol.com
@@ -6152,7 +6144,6 @@ mcdn.navdmp.com
 mcdp.outbrain.com
 mclick.xapads.com
 mcm.justbaat.org
-mcpuwpush.com
 mcs-sg.tiktok.com
 mcs-va.tiktokv.com
 mct.rkdms.com
@@ -6220,7 +6211,6 @@ media01.eu
 media1.admicro.vn
 mediacharger.com
 mediaintelligence.de
-medialytics.com
 medianet.sync.go.sonobi.com
 medianet.yadro.ru
 mediashakers.com
@@ -6374,7 +6364,6 @@ mores.mossturbo.com
 motu-hk.ssl2.duapps.com
 motuapi.ssl2.duapps.com
 moversa.com
-movie-pass.live
 movve.com
 mp.4dex.io
 mp.teads.tv
@@ -6445,7 +6434,6 @@ my.lifestreetmedia.com
 my.mobfox.com
 my.outbrain.com
 my.rtmark.net
-myad.mitrade.com
 myadplus.fatchilli.media
 myadsystem.com
 mybettermb.com
@@ -6453,6 +6441,7 @@ mycdn.media.net
 mydayoff.galaxiemedia.fr
 mydmp.exelator.com
 myscreen.com
+mz.elapsehorsier.cyou
 mz.proxysmjameson.cfd
 n.ads1-adnow.com
 n.ads2-adnow.com
@@ -6498,7 +6487,6 @@ nativeadsfeed.xs.ak-is2.net
 nativeapi.supersonicads.com
 nativeplaybook.triplelift.com
 nativesdks.mparticle.com
-navelfletch.com
 navigator.mediarithmics.com
 nazarickol.com
 nc.gdt.qq.com
@@ -6971,6 +6959,7 @@ pba.automatad.com
 pba.aws.lijit.com
 pba.lijit.com
 pbc.automatad.com
+pbc.getpublica.com
 pbc.vliplatform.com
 pbid.pro-market.net
 pbjs.e-planning.net
@@ -7453,7 +7442,6 @@ pui.specificmedia.com
 pulsar.xlisting.jp
 pulsefintech.xs.ak-is2.net
 puma.api.iqiyi.com
-pumaqmqix.com
 punchbowl.alcmpn.com
 purch-sync.go.sonobi.com
 push.aarth.net
@@ -7471,6 +7459,7 @@ pushad.adsparc.com
 pushads.popcash.net
 pushapi.localytics.com
 pusher.staging.runative.com
+pushlaram.com
 pushmono.com
 pushqwer.com
 pushstat.api.engagelab.cc
@@ -8554,7 +8543,6 @@ slidbecauseemerald.com
 slike.indiatimes.com
 slinks.yadro.ru
 slot.union.ucweb.com
-slushhelmetmirth.com
 smart-ads.statsperformdev.com
 smart-dmp.com
 smart.exelator.com
@@ -9077,7 +9065,6 @@ stats.dev.zaloapp.com
 stats.eskimi.com
 stats.fidelity-media.com
 stats.g.doubleclick.net
-stats.hara.vn
 stats.hbbtv.smartclip.net
 stats.hc.score.dmp.zalo.me
 stats.hprofits.com
@@ -9146,6 +9133,7 @@ stmp.ad.daum.net
 storage.affmates.com
 storage.cloud.kargo.com
 storage.mcwnow.co
+storage.orion.bendingspoons.com
 storage.outbrain.com
 store.trafficfactory.biz
 storeconfig.mistat.intl.xiaomi.com
@@ -9363,7 +9351,6 @@ t2.d.adup-tech.com
 t2zc6vo8zj2ch6sh6kvu5vq8cjz4iv8v2aj1ckjy8zktaj8vm6visk6als8l.me
 t3.chartboost.com
 t7z.cupid.iqiyi.com
-t84c3srgclc9.com
 tab-obj.conversantmedia.com
 tableau.marketo.com
 tabmo2018.go2cloud.org
@@ -9465,6 +9452,7 @@ teasers.adxxx.com
 teaspoonhumor.com
 ted.metro.co.uk
 tedgenet.com
+telaria.com
 telecommand.telemetry.microsoft.com
 telemetrics.klaviyo.com
 telemetries.jeeng.com
@@ -9488,7 +9476,6 @@ tg1.modoro360.com
 tg1.playstream.media
 tg1.vidcrunch.com
 tgdfm.adtdp.com
-thanosofcos5.com
 thapi.flygame.io
 theekedgleamed.com
 therichkids.com
@@ -9504,7 +9491,6 @@ tiads.timeinc.net
 tidy-mark.com
 tiki.ants.vn
 tikivn.api.sociaplus.com
-tiktok-ads.hara.vn
 timeinc.trc.taboola.com
 timohtazxazej.website
 tinkoff.cityads.com
@@ -9552,7 +9538,6 @@ tobapplog.ctobsnssdk.com
 tobapplog.tobsnssdk.com
 toblog.ctobsnssdk.com
 toblog.tobsnssdk.com
-toeapesob.com
 tok.akisinn.info
 tok.akisinn.me
 tok.akisinn.site
@@ -9686,7 +9671,6 @@ track.webgains.com
 track.wg-aff.com
 track.xapads.com
 track1.viewdeos.com
-trackcmp.net
 trackdownload.startappservice.com
 tracker-adserver.ibillboard.com
 tracker.ads.sportradar.com
@@ -10350,7 +10334,6 @@ wd.staging.sharethis.com
 wdads.sx.atl.publicus.com
 wdc.rttrk.com
 wdc.ttrk.io
-web-analytics.mona.host
 web-api.tjme.io
 web-rabbit.meitustat.com
 web-sdk.control.kochava.com
@@ -10455,7 +10438,6 @@ wo.nableroberto.com
 wonderhsjnsd.com
 wootric-demo.wootric.com
 wootric.com
-woovoree.net
 workday.exponential.com
 workdaylab.exponential.com
 worker1.advertnative.com
