@@ -2849,7 +2849,7 @@ api-c.hiaiabc.com
 api-compatible.mixpanel.com
 api-d.hiaiabc.com
 api-df.hiaiabc.com
-api-eu-a.bidmachine.io.
+api-eu-a.bidmachine.io
 api-eu.bidmachine.io
 api-exc.hiaiabc.com
 api-gd.hiaiabc.com
@@ -2953,7 +2953,6 @@ api.cmp.inmobi.com
 api.collect.data.intl.miui.com
 api.content.ad
 api.country.is
-api.crashlytics.com
 api.criteo.com
 api.cxense.com
 api.d.xiaomi.com
@@ -4098,6 +4097,7 @@ blogtoplist.se
 blogtopsites.com
 blu.mobileads.msn.com
 bluadz.com
+blue-ribbonmacadamizeprovide.com
 blue.thehill.com
 blueadss.com
 bluecava.com
@@ -5852,8 +5852,6 @@ crajeon.com
 crakmedia.com
 craktraffic.com
 crashapi.growingio.com
-crashlytics.com
-crashlyticsreports-pa.googleapis.com
 craveandlamb.com
 cravekeyboard.com
 crawlability.com
@@ -6285,6 +6283,7 @@ dbmaster.aatkit.com
 dbr9gtaf8.com
 dbs.pushwoosh.com
 dbtarget.com
+dbxexsnxxzwwo.com
 dc-storm.com
 dc.ads.linkedin.com
 dc.banggood.com
@@ -6851,7 +6850,6 @@ e.apsalar.com
 e.cn.miaozhen.com
 e.connectad.io
 e.cquotient.com
-e.crashlytics.com
 e.de.inmobi.com
 e.deployads.com
 e.dlx.addthis.com
@@ -6944,6 +6942,7 @@ efdldoqzzm.com
 effacedefend.com
 effectivecpmcontent.com
 effectivecpmgate.com
+effectivecpmnetwork.com
 effectivecreativeformat.com
 effectivedisplaycontent.com
 effectivedisplayformat.com
@@ -7455,9 +7454,6 @@ findcommerce.com
 findingexchange.com
 fineclicks.com
 fingerprint.admicro.vn
-firebase-settings.crashlytics.com
-firebaselogging-pa.googleapis.com
-firebaselogging.googleapis.com
 fireworkswad.com
 firsthive.com
 firstimpression.io
@@ -7587,6 +7583,7 @@ front.adpia.vn
 front.optimonk.com
 frs2c.com
 frtn.socdm.com
+fruhujma.in
 fs-client-logger.herokuapp.com
 fs.moatads.com
 fs.specificmedia.com
@@ -11190,6 +11187,7 @@ ofleafeona.com
 ofw-client-cdn.fyber.com
 og-shopee9.com
 og.alcmpn.com
+og.tiglicsethian.com
 ogads-pa.clients6.google.com
 ogads-pa.googleapis.com
 oghqvffmnt.com
@@ -12656,6 +12654,7 @@ qmobi.hotrk0.com
 qmyoclrszpanh.website
 qn.unspedtaction.com
 qnbeenbgsx.com
+qnenxwwxzav.com
 qnp16tstw.com
 qnsr.com
 qo.errorrespan.com
@@ -12713,6 +12712,7 @@ qwertize.com
 qwerty24.net
 qxucibukvklk.com
 qzeavzrfaoqn.com
+qzhwkhkpnpjxq.com
 qzs.gdtimg.com
 qzyztuwulo.com
 r-ad.ne.jp
@@ -12853,7 +12853,6 @@ real-native.tenmax.io
 real.pclick.yahoo.com
 real.sp.analytics.yahoo.com
 realbid.brealtime.com
-realcastmedia.com
 realclever.com
 realclick.vn
 realclix.com
@@ -13011,7 +13010,6 @@ reports-api.oncustomer.asia
 reports-k8s.leanplum.com
 reports.152media.com
 reports.ad.plus
-reports.crashlytics.com
 reports.fatchilli.media
 reports.keywee.co
 reports.leanplum.com
@@ -13975,7 +13973,6 @@ seth.avazutracking.net
 setka.media
 setting.rayjump.com
 settings-analytics.hotstar.com
-settings.crashlytics.com
 settings.luckyorange.net
 sexadvertentiesite.nl
 sexcounter.com
@@ -14233,6 +14230,7 @@ smtp5.younetmedia.com
 smtp6.younetmedia.com
 smtp9.epom.com
 smvpn.marketo.com
+sn.lumbarssweepup.com
 sn.moatads.com
 snailthreatenedinvited.com
 snakeslang.com
@@ -15051,6 +15049,7 @@ stylish-knife.com
 styria-digital.com
 su.addthis.com
 su.iadsdk.apple.com
+su.sulingvicaire.cyou
 su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me
 sub.api-rfr.com
 sub.pubnative.info
@@ -15468,6 +15467,7 @@ tcads.net
 tcheck.outbrainimg.com
 tcimp.zog.link
 tcr.tynt.com
+tcugibodvow.in
 tdf.ringier.ch
 tdid.m.qq.com
 teads.tv
@@ -15649,6 +15649,7 @@ tm-banners.gamingadult.com
 tm-offers.gamingadult.com
 tm.ads.sportradar.com
 tm.r-ad.ne.jp
+tm.tataupavira.com
 tm5kpprikka.com
 tmfpeast-elb.agkn.com
 tmk.smartadserver.com
@@ -16384,7 +16385,6 @@ update.a-mo.net
 update.adflex.vn
 update.adsrvr.org
 update.ap.lijit.com
-update.crashlytics.com
 update.ib.adnxs.com
 update.indexww.com
 update.moatads.com
@@ -16945,6 +16945,7 @@ vungle.com
 vwahacrubri.com
 vww1.com
 vz-cdn.trafficjunky.net
+vz.winkletimburse.cfd
 w.1igzn4xcl7fne6b.cfd
 w.ad.style
 w.adsco.re
@@ -18257,6 +18258,7 @@ yyb.eve.mdt.qq.com
 yyb.str.mdt.qq.com
 yyselrqpyu.com
 yzwtz.com
+yzybyozmuhh.com
 z-eu.amazon-adsystem.com
 z-fe.amazon-adsystem.com
 z-in.amazon-adsystem.com
@@ -18368,6 +18370,7 @@ zumobi.com
 zumrieth.com
 zunsoach.com
 zvetokr2hr8pcng09.com
+zwecnsakdbr.com
 zwiweqftobuvd.space
 zwnoeqzsuz.com
 zxc.world
