@@ -175,7 +175,6 @@ abtest.mistat.xiaomi.com
 ac.adpia.vn
 ac.askingpoint.com
 ac.batmobi.net
-ac.enticecreep.com
 ac.mmstat.com
 ac.tynt.com
 academy.breaktime.com.tw
@@ -1411,7 +1410,7 @@ api-c.hiaiabc.com
 api-compatible.mixpanel.com
 api-d.hiaiabc.com
 api-df.hiaiabc.com
-api-eu-a.bidmachine.io.
+api-eu-a.bidmachine.io
 api-eu.bidmachine.io
 api-exc.hiaiabc.com
 api-gd.hiaiabc.com
@@ -1509,7 +1508,6 @@ api.cloudmobi.net
 api.cmp.inmobi.com
 api.content.ad
 api.country.is
-api.crashlytics.com
 api.criteo.com
 api.cxense.com
 api.d.xiaomi.com
@@ -3068,7 +3066,6 @@ cl-data-sg.ads.heytapmobi.com
 cl-data-vn.ads.heytapmobile.com
 cl-data.ads.heytapmobi.com
 clarium.global.ssl.fastly.net
-claroads.com
 classic.marketolive.com
 clck.adskeeper.com
 clenchedyouthmatching.com
@@ -4170,7 +4167,6 @@ e.apsalar.com
 e.cn.miaozhen.com
 e.connectad.io
 e.cquotient.com
-e.crashlytics.com
 e.de.inmobi.com
 e.deployads.com
 e.dlx.addthis.com
@@ -4264,6 +4260,7 @@ engineering.wootric.com
 enterprise.djaxadserver.com
 enterpriseapi.admicro.vn
 enterprisertb.djaxadserver.com
+enticecreep.com
 entitlements.kochava.com
 eoapxl1.eoapxl.com
 eoapxl2.eoapxl.com
@@ -4517,7 +4514,6 @@ filter.rtxfeed.com
 finance.cityads.com
 fineclicks.com
 fingerprint.admicro.vn
-firebase-settings.crashlytics.com
 flairadscpc.xml-eu.ak-is2.net
 flamenipper.33across.com
 flickr.adsbynimbus.com
@@ -5138,7 +5134,6 @@ ignite.adtima.vn
 ih.adscale.de
 ih.charvetseedful.shop
 ij.cobolgammed.com
-ik.hatcheskoeri.shop
 iki.daleriki.com
 ilead.itrack.it
 im.bailbezetta.cfd
@@ -5896,7 +5891,6 @@ log.hm.baidu.com
 log.isnssdk.com
 log.juicer.cc
 log.kajicam.com
-log.kmplayer.com
 log.lavanetwork.net
 log.lemonpi.io
 log.logrocket.com
@@ -6653,6 +6647,7 @@ ofhappinyer.com
 ofleafeona.com
 ofw-client-cdn.fyber.com
 og.alcmpn.com
+og.tiglicsethian.com
 ogads-pa.clients6.google.com
 ogs.ants.vn
 oixohmve.com
@@ -6959,7 +6954,6 @@ pba.automatad.com
 pba.aws.lijit.com
 pba.lijit.com
 pbc.automatad.com
-pbc.getpublica.com
 pbc.vliplatform.com
 pbid.pro-market.net
 pbjs.e-planning.net
@@ -7744,7 +7738,6 @@ reports-api.oncustomer.asia
 reports-k8s.leanplum.com
 reports.152media.com
 reports.ad.plus
-reports.crashlytics.com
 reports.fatchilli.media
 reports.keywee.co
 reports.leanplum.com
@@ -8317,6 +8310,7 @@ secure.webconnect.net
 secureframe.doubleclick.net
 securepubads.g.doubleclick.net
 securetags.w55c.net
+sedo.cachefly.net
 sedodna.fs.ak-is2.net
 sedodna.xml.ak-is2.net
 seg.ad.gt
@@ -8421,7 +8415,6 @@ session-replay.browser-intake-ddog-gov.com
 sessions.bugsnag.com
 seth.avazutracking.net
 setting.rayjump.com
-settings.crashlytics.com
 settings.luckyorange.net
 sexadvertentiesite.nl
 sf.nazs.socdm.com
@@ -8577,6 +8570,7 @@ smtp5.younetmedia.com
 smtp6.younetmedia.com
 smtp9.epom.com
 smvpn.marketo.com
+sn.lumbarssweepup.com
 sn.moatads.com
 snap.licdn.com
 snapgiant.com
@@ -9162,6 +9156,7 @@ style.triplelift.com
 styleguide.outbrain.com
 su.addthis.com
 su.iadsdk.apple.com
+su.sulingvicaire.cyou
 su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me
 sub.pubnative.info
 succeedscene.com
@@ -9921,7 +9916,6 @@ update.a-mo.net
 update.adflex.vn
 update.adsrvr.org
 update.ap.lijit.com
-update.crashlytics.com
 update.ib.adnxs.com
 update.indexww.com
 update.moatads.com
@@ -10300,6 +10294,7 @@ vulcan.branch.io
 vulcan2.branch.io
 vulcan3.branch.io
 vz-cdn.trafficjunky.net
+vz.winkletimburse.cfd
 w.1igzn4xcl7fne6b.cfd
 w.ad.style
 w.adsco.re
