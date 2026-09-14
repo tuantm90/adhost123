@@ -279,6 +279,8 @@ ad.lavanetwork.net
 ad.leadboltads.net
 ad.leadboltapps.net
 ad.letmeads.com
+ad.lgappstv.com
+ad.lgsmartad.com
 ad.lkqd.net
 ad.media01.eu
 ad.mediafuse.com
@@ -589,7 +591,6 @@ ads.exdynsrv.com
 ads.exoclick.com
 ads.exosrv.com
 ads.faxo.com
-ads.finance.yahoo.com
 ads.flurry.com
 ads.g.adxadserv.com
 ads.geekswithblogs.net
@@ -705,6 +706,7 @@ ads.samsungads.com
 ads.scorecardresearch.com
 ads.servebom.com
 ads.servenobid.com
+ads.shopstyle.com
 ads.sift.co.uk
 ads.simpli.fi
 ads.smaato.com
@@ -1061,6 +1063,7 @@ aff2.childish2x2.fun
 affiliate.dtiserv.com
 affiliate.gamestop.com
 affiliate.media.net
+affiliate.treated.com
 affiliatefuture.com
 affiliates.babylon.com
 affiliates.devilfishpartners.com
@@ -1361,6 +1364,7 @@ antalyser.ants.vn
 antenna-apse.ayads.co
 antenna-us.ayads.co
 antenna.ayads.co
+anthemoutbackwrought.com
 anycast.adnxs.com
 anycast.api.adsafeprotected.com
 anycast.bapi.adsafeprotected.com
@@ -3172,6 +3176,7 @@ client.trackpush.com
 client.vads.net.vn
 client2.otm-r.com
 clientcdn.pushengage.com
+clientinfo.phimmoizz.net
 clientmanagement.lijit.com
 clientmetrics.outbrain.com
 clients.adcolony.com
@@ -3200,6 +3205,7 @@ cloudfront.adflex.vn
 cloudfront.mclick.mobi
 cloudfront.yieldlove-ad-serving.net
 cls.vrvm.com
+cluster.adultworld.com
 cluster.awmdelivery.com
 cm-beacon.nakanohito.jp
 cm-supply-web.gammaplatform.com
@@ -3425,6 +3431,7 @@ count.7m.com.cn
 count.advinci.net
 count.appadhoc.com
 counter.mgid.com
+counter.pixplug.in
 counter.search.bg
 counter.snackly.co
 counter.yadro.ru
@@ -3711,6 +3718,7 @@ d9.flashtalking.com
 da.anythinktech.com
 da.bridgeoos.com
 da.hookspf.com
+da.inmobi.com
 da.mossfast.com
 da.mosspf.cn
 da.mosspf.com
@@ -4002,6 +4010,7 @@ dlx.specificclick.net
 dm.aralego.com
 dm.djaxadserver.com
 dmc1acwvwny3.cloudfront.net
+dmdxzdhu.com
 dmg.digitaltarget.ru
 dmp-log.yomedia.vn
 dmp.ad4mat.net
@@ -4229,6 +4238,7 @@ edgecdn.bizible.com
 editorial.outbrain.com
 ee-trk.smadex.com
 ef.alcmpn.com
+effectscouncilman.com
 efficientdescent.com
 eghnybyvn.com
 egistonemes.com
@@ -4352,6 +4362,7 @@ eur-ukp.adsrvr.org
 euro.klick.vn
 europe-west2.ads.playground.xyz
 europe.bidtellect.com
+european-toplist.de
 euroranking.de
 eus.rubiconproject.com
 euspecifics.specificmedia.com
@@ -4378,7 +4389,6 @@ eventreg.sphdigital.com
 events-writer.smartlook.com
 events.adhaven.com
 events.aerserv.com
-events.apester.com
 events.api.secureserver.net
 events.attentivemobile.com
 events.avantisvideo.com
@@ -4581,6 +4591,7 @@ frtn.socdm.com
 fs.moatads.com
 fs.specificmedia.com
 fslt.wpm.neustar.biz
+fsxmidyo.com
 ft.budtawney.com
 ftp.exponential.com
 ftte.xyz
@@ -5333,6 +5344,7 @@ indecode.inmobi.net
 indium.openx.net
 indn.infolinks.com
 indo.autoads.asia
+infamousfine.com
 infeed-adroute.focas.jp
 infiniti.cityads.com
 influxdb2.vungle.com
@@ -5414,6 +5426,7 @@ internal.revcontent.com
 internalads.gammae.com
 interstitial.fyber.com
 intljs.rmtag.com
+intorterraon.com
 intranet.adomik.com
 intranet.faktor.io
 inuvi.com
@@ -5784,7 +5797,6 @@ lg3.media.net
 lga-tr.contextweb.com
 lgglobal.ihago.net
 lgs.vliplatform.com
-lgsmartad.com
 lib.adnxs.com
 lib.pgmcdn.com
 lib.wtg-ads.com
@@ -5794,7 +5806,6 @@ lidl.media01.eu
 lifescript.alcmpn.com
 lightboxcdn.com
 lijit.pixel.invitemedia.com
-link-booster.de
 link.leanplum.com
 link.swrve.com
 link4ads.com
@@ -5804,12 +5815,12 @@ linksynergy.com
 lispaircraftcraziness.com
 lite.automatad.com
 literalcorpulent.com
+litvp.com
 live-api.oncustomer.asia
 live-beacons.spotxchange.com
 live.chartboost.com
 live.rezync.com
 live.spotxchange.com
-live.vnpgroup.net
 livechat.oncustomer.asia
 liveramp.sync.go.sonobi.com
 livetracker.rfe.pangea-cms.com
@@ -5932,6 +5943,7 @@ log.union.ucweb.com
 log.vads.net.vn
 log.vda.viettel.vn
 log.vietnamnetad.vn
+log.vovworld.vn
 log.x2convert.com
 log.ys7.com
 log1.adsplay.net
@@ -5975,6 +5987,7 @@ logs.viadata.store
 logs.vlitag.com
 logsdk.qq.com
 logserver.insight.ucweb.com
+logv3.metric.vn
 logzh.vietnamplus.vn
 loind.mobio.vn
 lois.nend.net
@@ -6344,6 +6357,7 @@ mobviks.xml-eu.ak-is2.net
 mobyt.com
 mobytrks.com
 mobzeg.com
+mocean.mobi
 mock-bapi.userreport.com
 mockapi.bfmio.com
 mojo-dev.exelator.com
@@ -6430,8 +6444,10 @@ mustardeveningobvious.com
 mv.outbrain.com
 mvas.cityads.com
 mvideo.tpmedia.online
+mw19c3mi5a.com
 mweb-hb.presage.io
 mwzeom.zeotap.com
+mx.lgsmartad.com
 mx00.cityads.com
 mxs01.cityads.com
 mxs02.cityads.com
@@ -6481,6 +6497,7 @@ nam.segment.prod.bidr.io
 namimedia.com
 nation.marketo.com
 nationalgausewatrust.com
+native-ad.net
 native-feed.trackpush.com
 native-track.com
 native-vpaid.adxoo.com
@@ -6515,6 +6532,7 @@ network.adclickmedia.com
 network.innity.com
 networksdk.ssacdn.com
 new-cdn.blueseed.tv
+new-twinks.com
 new.cityads.com
 new.fqtag.com
 new.mobile-10.com
@@ -6531,7 +6549,6 @@ nexus.ad4mat.net
 nexus.ensighten.com
 nexus.upsight.com
 neymar.alphonso.tv
-nhttvqorwq.com
 nibble-cloud.brealtime.com
 nicealerts.youbora.com
 nicksstevmark.com
@@ -7209,6 +7226,7 @@ pool6.moatads.com
 pool7.moatads.com
 pool8.moatads.com
 pool9.moatads.com
+pop-under.ru
 pop.adrcdn.com
 pop.adtilt.com
 popads.com
@@ -7223,6 +7241,7 @@ popsgg.xml.ak-is2.net
 popunder.ru
 popup.popupsmart.com
 popup.taboola.com
+popuserapparatus.com
 popviking.xml.ak-is2.net
 portal.adbro.me
 portal.adthrive.com
@@ -7258,6 +7277,7 @@ pq8ithtdw.com
 pr-bh.ybp.yahoo.com
 pr.adxxx.com
 pr.comet.yahoo.com
+prayexplodesyndrome.com
 prcache.microadinc.com
 prd.jwpltx.com
 pre-adui.tg.meitu.com
@@ -7544,6 +7564,7 @@ qmobi.hotrk0.com
 qmyoclrszpanh.website
 qo.errorrespan.com
 qps.cint.com
+qquhzi4f3.com
 qrlsx.com
 qs.ioam.de
 qs251.com
@@ -7571,6 +7592,7 @@ queue.simpleanalyticscdn.com
 queue.statistics.aatkit.com
 quicksandear.com
 qwb.adblade.com
+qwertize.com
 qzeavzrfaoqn.com
 qzs.gdtimg.com
 r-eu.tsyndicate.com
@@ -7677,6 +7699,7 @@ recommendations.pubexchange.com
 recommender.ezca.asia
 recommender.scarabresearch.com
 recommends.media.net
+reconditerake.com
 recording.crazyegg.com
 recs.engageya.com
 recs.shareaholic.com
@@ -7711,6 +7734,7 @@ redri.net
 reedsalmonritual.com
 referer.pixplug.in
 referrer.disqus.com
+refpa58144.com
 refresh.pbstck.com
 regio.adup-tech.com
 region1.analytics.google.com
@@ -7797,6 +7821,7 @@ rest.content.ad
 rest.iad-03.braze.com
 retargeting.inner-active.mobi
 retg.ambient-platform.com
+reticencevaliddecoction.com
 reveal.districtm.ca
 revee.outbrain.com
 revenue.net
@@ -8627,9 +8652,11 @@ soma-us-east-1.smaato.net
 soma-useast.smaato.net
 soma.smaato.com
 soma.smaato.net
+son-in-lawmorbid.com
 sonar.adswizz.com
 songdew.pushengage.com
 sorrowfultrouble.com
+sortable.com
 source.bidgear.com
 sp-api.a8.net
 sp-api.dable.io
@@ -8869,6 +8896,7 @@ staging.unityads.unity3d.com
 staging.wootric.com
 stags.bluekai.com
 standards.smaato.com
+stareobjectedcipher.com
 start.branch.io
 startup.mobile.webvisor.com
 stas.outbrain.com
@@ -9091,10 +9119,12 @@ stats.mediaforge.com
 stats.optad360.com
 stats.ord.trafficjunky.net
 stats.realclick.vn
+stats.searchftps.net
 stats.showcasethat.com
 stats.smartclip.net
 stats.sxp.smartclip.net
 stats.truepush.com
+stats.ultraffic.info
 stats.unity3d.com
 stats.unlimapps.com
 stats.unrulymedia.com
@@ -9149,6 +9179,7 @@ stm-collect.cn.miaozhen.com
 stmp.ad.daum.net
 storage.affmates.com
 storage.cloud.kargo.com
+storage.mcwnow.co
 storage.orion.bendingspoons.com
 storage.outbrain.com
 store.trafficfactory.biz
@@ -9851,6 +9882,7 @@ tw.c.appier.net
 tw.wpu.sh
 twa-pvmax.tenmax.io
 twentyfourhonlineadvertising-d.openx.net
+twinrdsyte.com
 txx.tjme.io
 tydcybxaxtvpw.site
 u-ads.adap.tv
@@ -10242,6 +10274,7 @@ videoadextradata.outbrain.com
 videoads.hotstar.com
 videoapi.smartadserver.com
 videocdn.adspeed.net
+videocdnshop.com
 videocloud-sgp.ap-southeast-1.log.aliyuncs.com
 videoevents.outbrain.com
 videology-partners.tremorhub.com
@@ -10458,7 +10491,6 @@ wlpinnacle.adsrv.eacdn.com
 wlsbotop.adsrv.eacdn.com
 wmedia.adk2x.com
 wms.assoc-amazon.com
-wo.nableroberto.com
 wonderhsjnsd.com
 wootric-demo.wootric.com
 wootric.com
@@ -10487,6 +10519,7 @@ wr.amigojimbang.com
 wr.indexexchange.com
 wrapper.blueseed.tv
 wren.condenastdigital.com
+wrothenitent.cyou
 ws-fe.assoc-amazon.com
 ws-na.assoc-amazon.com
 ws.amazon-adsystems.com
@@ -11331,6 +11364,7 @@ yeesshh.xml.ak-is2.net
 yepdigital.adk2x.com
 yeti-api.automatad.com
 yeti.automatad.com
+yh.rostelshute.shop
 yi.polarichip.com
 yield-manager.browsiprod.com
 yieldbird-d.openx.net
