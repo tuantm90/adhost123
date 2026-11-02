@@ -13,6 +13,7 @@
 18.afs.googleadservices.com
 1fkx796mw.com
 1l-view.mail.ru
+1slms.com
 1x1.a-mo.net
 1x1.myfastcdn.com
 2.afs.googleadservices.com
@@ -206,6 +207,7 @@ actions-sg.taboola.com
 activate.ensighten.com
 active.iperceptions.com
 activity.serving-sys.com
+aczopdxfy.com
 ad-apac.doubleclick.net
 ad-api.a8.net
 ad-api.ad-stir.com
@@ -362,6 +364,7 @@ adcell.com
 adcenter.lijit.com
 adcito.com
 adclick.g.doubleclick.net
+adclixx.net
 adcloud.adsmoloco.com
 adconsent.samsungrs.com
 adcs.rqmob.com
@@ -402,7 +405,6 @@ adimg.uimserv.net
 adimg.uve.weibo.com
 adimpression.startappservice.com
 adinfo.tango.me
-adinfuse.com
 adintegration.lijit.com
 adireto.fuseplatform.net
 aditmedia.g2afse.com
@@ -440,6 +442,7 @@ admin.trafficstars.com
 admin.vserv.mobi
 admin.wpm.neustar.biz
 admin1.firstimpression.io
+admix.in
 admobclick.com
 admobile.com
 admonitor-lite.miaozhen.com
@@ -462,7 +465,6 @@ adnetwork.ad.kakaocorp.com
 adnetwork.adasiaholdings.com
 adnetworktech.com
 adngin.outbrain.com
-adnow.cc
 ado.pro-market.net
 adobe.adhaven.com
 adobe.sync.go.sonobi.com
@@ -599,7 +601,6 @@ ads.heyzap.com
 ads.homedy.net
 ads.hulu.com
 ads.ibryte.com
-ads.indeed.com
 ads.infi.net
 ads.intentiq.com
 ads.ioam.de
@@ -721,7 +722,6 @@ ads.themoneytizer.com
 ads.thesaigontimes.vn
 ads.thitruongtaichinhtiente.vn
 ads.tiktok.com
-ads.tiktokw.us
 ads.tmcs.net
 ads.trackingtraffo.com
 ads.trafficjunky.net
@@ -896,7 +896,6 @@ adtouch.adbrix.io
 adtrack.adleadevent.com
 adtrack.king.com
 adtrack1.midasplayer.com
-adtracker.site
 adtrackers.net
 adui.tg.meitu.com
 adunion.tapas.net
@@ -942,8 +941,8 @@ advertpro.sitepoint.com
 advideo.dsp.yandexadexchange.net
 advideo.movad.net
 advideo.uimserv.net
+advinci.net
 adviralmedia.com
-adviva.com
 advm.brznetwork.com
 advmanager.techfun.pl
 advs.brznetwork.com
@@ -1168,10 +1167,12 @@ ali-ctf-req.cn-hangzhou.dualstack.log.aliyuncs.com
 ali-ctf.cn-hangzhou.dualstack.log.aliyuncs.com
 ali-stats.jpush.cn
 ali.cityads.com
+alia-iso.com
 aliexpress-summer.cityads.com
 alivc-aio-sgp.ap-southeast-1.log.aliyuncs.com
 alivc-aio.cn-hangzhou.log.aliyuncs.com
 all.dspmulti.com
+allaqxoh.com
 alldcs.outbrain.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
@@ -1331,7 +1332,6 @@ analytics.sejda.com
 analytics.shareaholic.com
 analytics.streamgaga.com
 analytics.tiktok.com
-analytics.tiktokw.us
 analytics.tr.adjust.com
 analytics.trafficfactory.biz
 analytics.truffle.bid
@@ -1350,6 +1350,7 @@ analytics2.m2.ai
 analyticsapi.bsbportal.com
 analyze.accesstrade.net
 anapixel.marca.com
+ancotvpaxoz.com
 android-sdk.aatkit.com
 android.bugly.qq.com
 android.heyzap.com
@@ -1578,6 +1579,7 @@ api.lab.amplitude.com
 api.lab.eu.amplitude.com
 api.lijit.com
 api.localytics.com
+api.logrocket.com
 api.luckyorange.com
 api.market.pubnative.net
 api.maxesads.com
@@ -1835,7 +1837,6 @@ apx.pixel.avazutracking.net
 apx.rdkt.avazutracking.net
 apx.trck.avazutracking.net
 apx.ui.avazutracking.net
-apzptquixoyr.com
 ar.atomex.net
 ar.atwola.com
 ar.tns-counter.ru
@@ -1877,6 +1878,7 @@ asf-tm.everesttech.net
 asg.phukienthoitranggiare.com
 asgdfasad.mm-cgnews.com
 ash.creativecdn.com
+ashoupsu.com
 asia-southeast1.ads.playground.xyz
 asia.adform.net
 asia.creativecdn.com
@@ -1937,6 +1939,8 @@ assets.triplelift.com
 assets.ubembed.com
 assets.vlitag.com
 assets1.adroll.com
+asslfeqadv.com
+assuremath.com
 astrategy.beacon.qq.com
 async01.admantx.com
 at.atwola.com
@@ -1999,6 +2003,7 @@ av1.xdrig.com
 avd.innity.com
 avd.innity.net
 avf-tm.everesttech.net
+avhkihpfabt.com
 avn.innity.com
 avp.innity.com
 aw.advertica-cdn.com
@@ -2021,7 +2026,6 @@ ayadsaws.ayads.co
 ayrtpmwuymzbbq.com
 az-pe.o-s.io
 azjpixel.adsafeprotected.com
-azkcqs.com
 azoaltou.com
 azrwwodreta.com
 azzadgasf.in
@@ -2098,7 +2102,6 @@ banner.novanet.vn
 banners.adultfriendfinder.com
 banners.asiafriendfinder.com
 banners.binary.com
-banners.copyscape.com
 banners.dfbanners.com
 banners.dine.com
 banners.direction-x.com
@@ -2117,6 +2120,7 @@ banners.virtuagirlhd.com
 banners.wunderground.com
 banners.yllix.com
 bannershotlink.perfectgonzo.com
+bannertrack.net
 bannerwall.s3.appcnt.com
 bans.bride.ru
 baogia.vads.vn
@@ -2127,6 +2131,7 @@ bappaads.xml.ak-is2.net
 barapolaran.shop
 baresi.xyz
 base-cdn.admarvel.com
+batomqsmoocc.com
 bats.video.yahoo.com
 bb.o-s.io
 bbbpromos.org
@@ -2192,6 +2197,7 @@ beauty.native-ad.net
 bee7.com
 beeswax.tapjoy.com
 befjajh.trackhup.com
+beklefkiom.com
 belia-glp.com
 benzeinlune.com
 beplusleor.com
@@ -2311,6 +2317,7 @@ bounce-west.emxdgt.com
 bounce.brealtime.com
 bounce.emxdgt.com
 boustahe.com
+bouzechoby.net
 boxpr.admicro.vn
 boyaidare.club
 bp.specificclick.net
@@ -2331,6 +2338,7 @@ brandvideo.biz.weibo.com
 branovate.com
 brazenwholly.com
 breathelicense.com
+bredmykixnaj.com
 bridge.ame.admarketplace.net
 bridge.lga1.admarketplace.net
 bridge.sf.admarketplace.net
@@ -2387,6 +2395,7 @@ bypass-bid.ad-stir.com
 bypass-image.ad-stir.com
 bypass.ad-stir.com
 bytefrom2010.com
+bzyfzusiqohk.com
 c-adash.m.taobao.com
 c-eus.w.inmobi.com
 c-evt.moatads.com
@@ -3025,6 +3034,7 @@ cdnv.ad-stir.com
 cdnv.tpmedia.online
 cdnx.exponential.com
 cdp.cococx.com
+cdrvrs.com
 cds.taboola.com
 cdslog.contextweb.com
 ce.galaxiemedia.fr
@@ -3110,6 +3120,7 @@ clarium.global.ssl.fastly.net
 claroly75.com
 classic.marketolive.com
 clck.adskeeper.com
+clckysudks.com
 clenchedyouthmatching.com
 clevelreports.youbora.com
 clevertap.com
@@ -4073,6 +4084,7 @@ dmx-dev.districtm.ca
 dmx.districtm.ca
 dmx.districtm.io
 dn.adflex.vn
+dn.loupmismaze.com
 dn0qt3r0xannq.cloudfront.net
 dnemkhkbsdbl.com
 dnhfi5nn2dt67.cloudfront.net
@@ -4548,6 +4560,7 @@ faktornet.faktor.io
 falcon.pixanalytics.com
 fam.adingo.jp
 faq.juicer.cc
+faqlikbid.com
 fastbuy.biz
 fastlane-adv.rubiconproject.com
 fastlane.rubiconproject.com
@@ -4612,6 +4625,7 @@ footer-es.themoneytizer.com
 footer.themoneytizer.com
 forbes.aaxads.com
 forbes.media.net
+foresee.com
 forflygonom.com
 form.ads.zalo.me
 formats.triplelift.com
@@ -4656,6 +4670,7 @@ ftte.xyz
 fullstory.com
 funnel-assets.startappservice.com
 funoriblithe.space
+futcceabr.com
 fvalid.appsflyer.com
 fvmfdzpwbm.com
 fw.adsafeprotected.com
@@ -4719,6 +4734,7 @@ gcjs.genmonet.com
 gcm.ctnsnet.com
 gd-api.ad.jiguang.cn
 gd-stats.jpush.cn
+gd.orlcloop.com
 gdl.maxesads.com
 gdl.youngle.tech
 gdn.socdm.com
@@ -4820,7 +4836,6 @@ global.px.quantserve.com
 global.telemetry.insights.video.a2z.com
 globalapi.ad.xiaomi.com
 globalid.bttrack.com
-globaltrack.com
 gloos-zus.info
 glp1.indexexchange.com
 glp2.indexexchange.com
@@ -5034,6 +5049,9 @@ hello.staticstuff.net
 helpdesk.ad4game.com
 helpdesk.leanplum.com
 heoads.b-cdn.net
+hetaint.com
+hetapus.com
+hetaruvg.com
 hhbwhgtciqe.com
 hi-cdn.adsparc.net
 hi.districtm.ca
@@ -5096,6 +5114,7 @@ hud.crazyegg.com
 hulu.pixel.invitemedia.com
 hummingbird.mavencoalition.io
 hunantv-ipdx.cn.miaozhen.com
+hurarwjrirti.com
 hv.pultosteduardo.com
 hw-cdn.trafficjunky.net
 hw.zuimeitianqi.com
@@ -5221,10 +5240,12 @@ ignite.adtima.vn
 ih.adscale.de
 ih.charvetseedful.shop
 ih.serosaetoher.shop
+ihhqwaurke.com
 ij.cobolgammed.com
 iki.daleriki.com
 il.coiffesreal.qpon
 ilead.itrack.it
+ileeckut.com
 im.bailbezetta.cfd
 im.bluevoox.com
 im.jpush.cn
@@ -5342,6 +5363,7 @@ imgs2.aanetwork.vn
 imgs2.yodimedia.com
 imgur.adsbynimbus.com
 imgx.jampp.com
+imimobile.com
 immediatemedia.amp.permutive.com
 immizdgmacjvi.space
 imobile.socdm.com
@@ -5446,6 +5468,7 @@ inmobiassets.inmobicdn.net
 inmobisdk-a.akamaihd.net
 inorbitad.com
 inpage-feed.trackpush.com
+inpage-push.com
 inread-experience.teads.tv
 inside.adpushup.com
 inside.outbrain.com
@@ -5593,6 +5616,8 @@ jenkins.bam-x.com
 jenkins.younetmedia.com
 jenkins2.bam-x.com
 jeoway.com
+jerboasjourney.com
+jexrkdmiv.com
 jf71qh5v14.com
 jg.wensixuetang.com
 jgl.microad.net
@@ -5609,6 +5634,7 @@ jma.genieesspv.jp
 jobs.logrocket.com
 jobs.smartadserver.com
 join.cityads.com
+joopaish.com
 jp-ads.mediaforge.com
 jp-amp.mediaforge.com
 jp-cdn.mediaforge.com
@@ -5713,6 +5739,8 @@ jsudwyjduktw.com
 jsv2.andbeyond.media
 jsv2scr.andbeyond.media
 jtracking.lulusoft.com
+ju.mmstat.com
+jufbcunisak.com
 jwpevent.1rx.io
 jz.thringsettos.cyou
 k.et.nytimes.com
@@ -5766,6 +5794,7 @@ kras.ad4m.at
 krk.kargo.com
 krxd.net
 ksvjmvrjjo.com
+kt.cowtownpeppy.com
 kts.vasstycom.com
 kts.visitstats.com
 ktu.sv2.biz
@@ -5785,6 +5814,7 @@ kykay.com
 kyson.ad.daum.net
 kz.tns-counter.ru
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
+kzuocxorfo.com
 l.a.eclick.vn
 l.aaxads.com
 l.betrad.com
@@ -5817,6 +5847,7 @@ labs.chitika.com
 labs.criteo.com
 labs.revcontent.com
 labs.taplytics.com
+lactolwant.com
 lalaping.com
 lampcfads.starbre.net
 lampservice.starbre.net
@@ -5828,7 +5859,6 @@ largeer.com
 launch.adserver.yahoo.com
 launches.appsflyersdk.com
 launchpoint.marketo.com
-lavnkios.in
 lax-1-apex.go.sonobi.com
 lax-1-sync.go.sonobi.com
 lax-1-xcp.go.sonobi.com
@@ -5865,6 +5895,7 @@ lego.mmstat.com
 lem-computers.net
 leoyard.fs.ak-is2.net
 level3.applifier.com
+lfalfehuq.com
 lfeorrzkua.com
 lfezjmxldv.com
 lfvvhemghapw.com
@@ -5887,6 +5918,7 @@ lidl.media01.eu
 lifescript.alcmpn.com
 lightboxcdn.com
 lijit.pixel.invitemedia.com
+lingamretene.com
 link.leanplum.com
 link.swrve.com
 linkads.xyz
@@ -6069,7 +6101,6 @@ logs.ironsrc.mobi
 logs.supersonic.com
 logs.viadata.store
 logs.vlitag.com
-logsdk.qq.com
 logserver.insight.ucweb.com
 logzh.vietnamplus.vn
 loind.mobio.vn
@@ -6089,6 +6120,7 @@ lp.mydas.mobi
 lp.novanet.vn
 lp.outbrain.com
 lptag.liveperson.net
+lpuodgmca.com
 lr.us-east-1.bid.bidr.io
 lt.alcmpn.com
 ltv-data-api.kube-prod.vungle.com
@@ -6099,7 +6131,6 @@ lu.hymenicshi.qpon
 lucky1.marketo.com
 lunarads.com
 luxope.com
-lvesfrucnt.com
 lyncaws2.exponential.com
 lyncdiscover.exponential.com
 lyncshare.exponential.com
@@ -6233,8 +6264,8 @@ mautic.hicity.vn
 mautic.icsc.vn
 mautic.serverhub.vn
 mautic.vmax.vn
-mauve-pinkgetawhifftime.com
 mavericks.marketo.com
+mawptuaz.com
 maxgid.com
 mb.logging.admicro.vn
 mb.moatads.com
@@ -6391,7 +6422,6 @@ micro.rubiconproject.com
 mid.rkdms.com
 mig.str.mdt.qq.com
 mikayla.phd
-mindmemobile.com
 mintrace.com
 minyanville.adblade.com
 misc.sd.duapps.com
@@ -6444,7 +6474,6 @@ mobviks.xml-eu.ak-is2.net
 mobyt.com
 mobytrks.com
 mobzeg.com
-mocean.mobi
 mock-bapi.userreport.com
 mockapi.bfmio.com
 mojo-dev.exelator.com
@@ -6534,6 +6563,7 @@ mv.outbrain.com
 mvas.cityads.com
 mvideo.tpmedia.online
 mweb-hb.presage.io
+mwekuzaj.com
 mwzeom.zeotap.com
 mx.lgsmartad.com
 mx00.cityads.com
@@ -6551,6 +6581,7 @@ my.rtmark.net
 my.toruftuiov.com
 myad.mitrade.com
 myadplus.fatchilli.media
+myadsystem.com
 mybettermb.com
 mycdn.media.net
 mydayoff.galaxiemedia.fr
@@ -6715,6 +6746,7 @@ ntvp.wpu.sh
 ntvsw.com
 nu.subgumgutwise.com
 nuclearads.com
+nv.fascparbate.com
 nv.shunnerencinal.shop
 nv.vi-serve.com
 nvirginia-my.mobfox.com
@@ -6723,6 +6755,7 @@ ny.damasseakamai.com
 ny.outbrain.com
 ny1-bid.adsrvr.org
 nychi2.outbrain.com
+nycvqozkkmzti.com
 nyidt.adsafeprotected.com
 nytimes-d.openx.net
 o-adq.mediation.unity3d.com
@@ -6752,6 +6785,7 @@ oba.media.net
 obdshyohcog.com
 obin.distinctrobin.com
 oblolrvce.in
+obnoljac.com
 obs.cheqzone.com
 observe.aniview.com
 obstaging.cheqzone.com
@@ -6768,6 +6802,7 @@ odb.outbrain.com
 odf.app-ads-services.com
 odm.app-ads-services.com
 odnvkuocmow.in
+odqdkealzr.com
 odr.mookie1.com
 offer-api.adgem.com
 offer-api.nextadgem.com
@@ -6851,6 +6886,7 @@ optimized-by.rubiconproject.com
 optimizedby.brealtime.com
 opus-dev.analytics.yahoo.com
 opus.analytics.yahoo.com
+opzazcvitci.com
 oranegfodnd.com
 orbor700.com
 ord-ae.conversantmedia.com
@@ -6879,6 +6915,7 @@ osknimkihvr.com
 oth.bls.mdt.qq.com
 oth.eve.mdt.qq.com
 oth.str.mdt.qq.com
+othabqmag.com
 other.geniee.jp
 otheve.beacon.qq.com
 othstr.beacon.qq.com
@@ -6893,7 +6930,6 @@ outcome.supersonicads.com
 outloud.outbrain.com
 output.nend.net
 ov.zucks.net
-overgreedyminddegree.com
 ovmhwiccikr.com
 ovp.iris.tv
 ow-gateway.supersonicads.com
@@ -6909,6 +6945,7 @@ ox-d.bannertrack.net
 ox.appnext.com
 oxen.hillcountrytexas.com
 oxiivn.matomo.cloud
+ozmahtadn.com
 ozqoztrkoaj.com
 p.1ts18.top
 p.1ts21.top
@@ -7532,6 +7569,7 @@ ptawehex.net
 ptimeinc.chartbeat.net
 ptoushoa.com
 pttuzodqkbgv.com
+ptuzrywmega.com
 pu3.biz
 pub-dev.novaonx.com
 pub-sdk-cfg.criteo.com
@@ -7626,6 +7664,7 @@ pv.awin1.com
 pv.pubexchange.com
 pv.sohu.com
 pv.vipads.cc
+pvmax.net
 pvmax.tenmax.io
 pw.oulapoat.qpon
 pw.wpu.sh
@@ -7678,6 +7717,7 @@ qa-smartplugin.youbora.com
 qa.shboshbok.com
 qa2-origin.acuityplatform.com
 qa2.bfmio.com
+qahntenkyf.com
 qayuwjcpfxusg.website
 qc.klick.vn
 qc.mhsolution.vn
@@ -7685,6 +7725,7 @@ qctt24h.24h.com.vn
 qcx.quantserve.com
 qds0l.publishers.tremorhub.com
 qip.yadro.ru
+qiptamcupl.com
 qlog.adap.tv
 qmobi.hotrk0.com
 qmyoclrszpanh.website
@@ -7727,6 +7768,7 @@ qwb.adblade.com
 qwertize.com
 qzeavzrfaoqn.com
 qzs.gdtimg.com
+qzyztuwulo.com
 r-eu.tsyndicate.com
 r-log.dable.io
 r.3gl.net
@@ -7779,6 +7821,7 @@ ra.gssprt.jp
 rabbit.meitustat.com
 rabbit.tg.meitu.com
 rack.movad.net
+radxabsah.com
 raf.overwolf.com
 railwayrainstorm.com
 rancher.showheroes.com
@@ -7967,6 +8010,7 @@ rgthrottle.1rx.io
 rh.otnolatrnup.com
 rh.wallahrana.cfd
 rhea-cache.advividnetwork.com
+rhiowzaht.com
 rhythmanalytics.1rx.io
 ribunews.com
 rimsaureshi.com
@@ -7982,6 +8026,7 @@ rmmjy.rrbzvmklrzwmk.top
 rmp.1rx.io
 rmvla.rrqwarwrewrlj.top
 rnd.novanet.vn
+rnofuxgaz.com
 rochesterdata.com
 rock.defybrick.com
 roimedia.advertserve.com
@@ -8004,7 +8049,6 @@ rot8.a8.net
 rot9.a8.net
 rotabol.com
 rotator.staging.runative.com
-roumaniangravelnot.com
 rounddescribe.com
 rounuatedanximum.com
 router.infolinks.com
@@ -8135,7 +8179,6 @@ rtx.alcmpn.com
 rtxfeed.xml.ak-is2.net
 ru-geo.cityads.com
 ru-gmtdmp.mookie1.com
-ru-traffic.com
 ru.adxxx.com
 ru.cdn5.onthe.io
 ru.pintidmalmy.cyou
@@ -8659,6 +8702,7 @@ share.asianmedia.com
 shareasale.com
 sharebar.addthiscdn.com
 sharepoint.sonobi.com
+sharepointads.com
 sharethis.com
 sharethrough.adnxs.com
 shaughixefooz.net
@@ -8806,6 +8850,7 @@ son-in-lawmorbid.com
 sonar.adswizz.com
 songdew.pushengage.com
 sorrowfultrouble.com
+soumehoo.net
 source.bidgear.com
 sp-api.a8.net
 sp-api.dable.io
@@ -8893,6 +8938,7 @@ ssbsync.smartadserver.com
 ssc-cms.33across.com
 ssc.33across.com
 sshowads.pubmatic.com
+ssindserving.com
 ssl-avd.innity.net
 ssl-cdn.media.innity.net
 ssl-google-analytics.l.google.com
@@ -9015,6 +9061,7 @@ staging-d-tiki.ants.vn
 staging-d.ants.vn
 staging-e-vcdn.anthill.vn
 staging-e.anthill.vn
+staging-i.logrocket.com
 staging-i.logrocket.io
 staging-ib.3lift.com
 staging-insights-collector-origin.nr-data.net
@@ -9493,7 +9540,6 @@ syndication.winadx.com
 synthetics-horde.nr-data.net
 sypnios.com
 sys.vidsrev.com
-system-notify.app
 system.adtarget.me
 system.indexexchange.com
 systracking.admicro.vn
@@ -9700,6 +9746,7 @@ tiads.timeinc.net
 tidy-mark.com
 tiki.ants.vn
 tikivn.api.sociaplus.com
+tilqwekuszfa.com
 timeinc.trc.taboola.com
 timohtazxazej.website
 tinkoff.cityads.com
@@ -9740,6 +9787,7 @@ tls.telemetry.swe.quicinc.com
 tlx.3lift.com
 tm.ads.sportradar.com
 tm.r-ad.ne.jp
+tm.tataupavira.com
 tmfpeast-elb.agkn.com
 tmk.smartadserver.com
 tmp.adflex.vn
@@ -9875,7 +9923,6 @@ track.superfastmediation.com
 track.technoratimedia.com
 track.thesaurus.com
 track.trackingtraffo.com
-track.unidata.ai
 track.vdo.ai
 track.venatusmedia.com
 track.viewdeos.com
@@ -10120,9 +10167,7 @@ ulogs.umeng.com
 ulogs.umengcloud.com
 ultimedia.com
 um.simpli.fi
-umeng.co
 ums.adtechus.com
-unarmedlickpattern.com
 undefined.fls.doubleclick.net
 unheadedsouptotal.com
 unibots.cpm.ak-is2.net
@@ -10134,7 +10179,6 @@ universal.iperceptions.com
 universe.send.microad.jp
 universityonline.marketo.com
 unkempt-hand.com
-unmalleableredistributeone.com
 untidyquestion.com
 unugilpcyxoep.com
 up.foalywull.com
@@ -10162,7 +10206,6 @@ upx.provenpixel.com
 url.ds.duapps.com
 url.sd.duapps.com
 urlhandler.aniview.com
-urrfkabrkhxjat.com
 us-ads.openx.net
 us-adsrv.rtbsuperhub.com
 us-central.load.exelator.com
@@ -10379,6 +10422,7 @@ verve.com
 vet-cn-north-1.smaato.net
 vet-us-east-1.smaato.net
 vet-us-east-1.track.smaato.net
+vfurwydryli.com
 vh.adscale.de
 vi-tag.net
 vi.adxxx.com
@@ -10525,6 +10569,7 @@ vu.moatads.com
 vulcan.branch.io
 vulcan2.branch.io
 vulcan3.branch.io
+vwahacrubri.com
 vz-cdn.trafficjunky.net
 vz.winkletimburse.cfd
 w.1igzn4xcl7fne6b.cfd
@@ -10609,6 +10654,7 @@ west.us.tm.exelator.com
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 wgkqywcf.com
 wgtyvqbfkxg.com
+whairtoa.com
 whalecdn.cpmstar.com
 whitelabel.media.net
 whm.asianmedia.com
@@ -10634,7 +10680,6 @@ widgets.ad.style
 widgets.adskeeper.com
 widgets.amung.us
 widgets.asdpoi.com
-widgets.coinmarketcap.com
 widgets.getclicky.com
 widgets.mgid.com
 widgets.outbrain.com
@@ -10642,6 +10687,7 @@ widgetv4.subiz.com
 wieistmeineip.de
 wifiads.cleverads.vn
 wiinvent.com.vn
+wijwunrcoo.com
 wildcard.aniview.com.edgekey.net
 willingnessdrizzleleverage.com
 win-dsp-eu.adkernel.com
@@ -11619,7 +11665,9 @@ zeusadx.xml.ak-is2.net
 zhoyyibwywgev.one
 ziffdavis.com
 zikroarg.com
+zipazvzu.com
 zjdpabwmeb.com
+zkyrzoqc.com
 zlog.mp3.zing.vn
 zlog.zingmp3.vn
 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
